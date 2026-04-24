@@ -52,7 +52,7 @@ async def list_notebooks():
     """List all notebooks in your NotebookLM account."""
     client = await get_client()
     notebooks = await client.notebooks.list()
-    return [{"id": nb.id, "title": nb.title, "source_count": nb.source_count} for nb in notebooks]
+    return [{"id": nb.id, "title": nb.title, "sources_count": nb.sources_count} for nb in notebooks]
 
 @mcp.tool()
 async def create_notebook(title: str):
