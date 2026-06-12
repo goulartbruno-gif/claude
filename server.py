@@ -100,18 +100,21 @@ async def add_source_text(notebook_id: str, title: str, text: str):
 
 @mcp.tool()
 async def ask_notebook(notebook_id: str, question: str):
-    """Ask a question based on the sources in a specific notebook."""
+    """Ask a question grounded on the sources in a specific notebook."""
     client = await get_client()
     result = await client.chat.ask(notebook_id, question)
-    return {"answer": result.text, "sources": [s.title for s in result.sources]}
+    return {
+        "answer": getattr(result, "answer", ""),
+        "references": _ser(getattr(result, "references", [])),
+        "conversation_id": getattr(result, "conversation_id", None),
+    }
 
 @mcp.tool()
 async def get_notebook_summary(notebook_id: str):
-    """Get the summary and key insights of a notebook."""
+    """Get the summary and key insights of a notebook (via a grounded chat query)."""
     client = await get_client()
-    # Using chat to get summary if there's no direct summary API
     result = await client.chat.ask(notebook_id, "Please provide a comprehensive summary and key insights of this notebook.")
-    return {"summary": result.text}
+    return {"summary": getattr(result, "answer", "")}
 
 @mcp.tool()
 async def generate_video_overview(notebook_id: str, instructions: str = "Create an engaging video overview of these sources."):
@@ -229,11 +232,14 @@ async def get_notebook_share_url(notebook_id: str):
 # ---------------------------------------------------------------------------
 
 @mcp.tool()
-async def configure_chat(notebook_id: str, instructions: str):
+async def configure_chat(notebook_id: str, custom_prompt: str = None, goal: str = None, response_length: str = None):
     """Set the chat persona / system instructions for a notebook. This steers
-    the tone and analytical focus of subsequent `ask_notebook` answers."""
+    the tone and analytical focus of subsequent `ask_notebook` answers.
+    ``custom_prompt`` is free-form system instructions; ``goal`` and
+    ``response_length`` are NotebookLM's built-in steering options."""
     client = await get_client()
-    return _ser(await client.chat.configure(notebook_id, instructions=instructions))
+    await client.chat.configure(notebook_id, goal=goal, response_length=response_length, custom_prompt=custom_prompt)
+    return {"configured": True, "notebook_id": notebook_id}
 
 # ---------------------------------------------------------------------------
 # Sources
@@ -247,10 +253,12 @@ async def add_source_file(notebook_id: str, file_path: str):
     return _ser(await client.sources.add_file(notebook_id, Path(file_path)))
 
 @mcp.tool()
-async def add_source_drive(notebook_id: str, drive_url_or_id: str):
-    """Add a Google Drive file (Doc, Slides, …) as a source to a notebook."""
+async def add_source_drive(notebook_id: str, file_id: str, title: str,
+                           mime_type: str = "application/vnd.google-apps.document"):
+    """Add a Google Drive file (Doc, Slides, …) as a source. ``file_id`` is the
+    Drive file id; ``mime_type`` defaults to a Google Doc."""
     client = await get_client()
-    return _ser(await client.sources.add_drive(notebook_id, drive_url_or_id))
+    return _ser(await client.sources.add_drive(notebook_id, file_id, title, mime_type=mime_type))
 
 @mcp.tool()
 async def list_sources(notebook_id: str):
@@ -300,11 +308,14 @@ async def create_note(notebook_id: str, title: str, content: str):
 
 @mcp.tool()
 async def update_note(notebook_id: str, note_id: str, content: str, title: str = None):
-    """Update an existing note's content (and optionally its title)."""
+    """Update an existing note's content (and optionally its title). If no
+    title is given, the note's current title is preserved."""
     client = await get_client()
-    if title is not None:
-        return _ser(await client.notes.update(notebook_id, note_id, content, title))
-    return _ser(await client.notes.update(notebook_id, note_id, content))
+    if title is None:
+        current = await client.notes.get(notebook_id, note_id)
+        title = getattr(current, "title", None) or "Note"
+    await client.notes.update(notebook_id, note_id, content, title)
+    return {"updated": note_id, "title": title}
 
 @mcp.tool()
 async def delete_note(notebook_id: str, note_id: str):
@@ -320,13 +331,13 @@ async def save_chat_answer_as_note(notebook_id: str, question: str, note_title: 
     clarification while deepening the research loop."""
     client = await get_client()
     result = await client.chat.ask(notebook_id, question)
-    answer = getattr(result, "text", str(result))
+    answer = getattr(result, "answer", "") or ""
     title = note_title or (question[:80])
     note = await client.notes.create(notebook_id, title=title, content=answer)
     return {
         "note": _ser(note),
         "answer": answer,
-        "sources": [getattr(s, "title", str(s)) for s in getattr(result, "sources", [])],
+        "references": _ser(getattr(result, "references", [])),
     }
 
 @mcp.tool()
@@ -397,12 +408,14 @@ async def download_artifact(notebook_id: str, artifact_type: str, dest_path: str
 # ---------------------------------------------------------------------------
 
 @mcp.tool()
-async def start_research(notebook_id: str, query: str):
-    """Start a web/Drive research task for a notebook. Returns a task_id; use
-    `wait_for_research` then `import_research_sources` to ingest the results."""
+async def start_research(notebook_id: str, query: str, source: str = "web", mode: str = "fast"):
+    """Start a research task for a notebook (``source`` = web/drive,
+    ``mode`` = fast/deep). Returns a task_id; use `wait_for_research` then
+    `import_research_sources` to ingest the results."""
     client = await get_client()
-    status = await client.research.start(notebook_id, query)
-    return {"task_id": getattr(status, "task_id", None), "status": _ser(status)}
+    status = await client.research.start(notebook_id, query, source=source, mode=mode)
+    tid = status.get("task_id") if isinstance(status, dict) else getattr(status, "task_id", None)
+    return {"task_id": tid, "status": _ser(status)}
 
 @mcp.tool()
 async def wait_for_research(notebook_id: str, task_id: str):
@@ -416,7 +429,10 @@ async def import_research_sources(notebook_id: str, task_id: str):
     notebook. Waits for completion first, then imports the discovered sources."""
     client = await get_client()
     status = await client.research.wait_for_completion(notebook_id, task_id)
-    sources = list(getattr(status, "sources", []) or [])
+    if isinstance(status, dict):
+        sources = status.get("sources", []) or []
+    else:
+        sources = list(getattr(status, "sources", []) or [])
     imported = await client.research.import_sources(notebook_id, task_id, sources)
     return {"imported": _ser(imported), "count": len(sources)}
 
