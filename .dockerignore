@@ -1,0 +1,8 @@
+.git
+.venv
+__pycache__
+*.pyc
+# never bake auth into the image — it is mounted at runtime
+storage_state.json*
+.storage_state.json*
+.notebooklm/

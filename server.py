@@ -1,4 +1,6 @@
+import inspect
 import logging
+import os
 import sys
 from contextlib import asynccontextmanager
 from fastmcp import FastMCP
@@ -22,7 +24,13 @@ async def lifespan(_app):
     global _client, _client_context
     logger.info("Starting NotebookLM MCP server...")
     try:
-        _client = await NotebookLMClient.from_storage()
+        # Optional explicit storage_state path (handy for containerized
+        # deployments that mount a pre-seeded session); otherwise use the
+        # default profile resolved from NOTEBOOKLM_HOME.
+        storage = os.environ.get("NOTEBOOKLM_STORAGE_STATE")
+        maybe = (NotebookLMClient.from_storage(storage) if storage
+                 else NotebookLMClient.from_storage())
+        _client = await maybe if inspect.isawaitable(maybe) else maybe
         _client_context = await _client.__aenter__()
         logger.info("NotebookLM client initialized successfully")
         yield
@@ -438,4 +446,15 @@ async def import_research_sources(notebook_id: str, task_id: str):
 
 
 if __name__ == "__main__":
-    mcp.run()
+    # Transport is stdio by default (Claude Desktop / Code style). Set
+    # MCP_TRANSPORT=http to expose Streamable-HTTP for a containerized sidecar
+    # the gateway reaches over a URL (host/port via MCP_HOST / MCP_PORT).
+    transport = os.environ.get("MCP_TRANSPORT", "stdio").lower()
+    if transport in ("http", "streamable-http", "streamable_http"):
+        mcp.run(
+            transport="streamable-http",
+            host=os.environ.get("MCP_HOST", "127.0.0.1"),
+            port=int(os.environ.get("MCP_PORT", "8000")),
+        )
+    else:
+        mcp.run()
