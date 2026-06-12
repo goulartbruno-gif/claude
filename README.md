@@ -4,10 +4,18 @@ A powerful MCP (Model Context Protocol) server that brings Google NotebookLM int
 
 ## Features
 
-- **Research**: List and create notebooks
-- **Content**: Add URLs, text, and files as sources
-- **Generation**: Create Podcasts, Videos, Slides, Mind Maps, Infographics, Quizzes, Flashcards, and Reports
-- **Natural Interaction**: Chat directly with your sources using Claude's reasoning
+- **Notebooks**: List, create, rename; read AI description **with NotebookLM's suggested follow-up questions**; metadata & share URL
+- **Sources**: Add URL / YouTube / text / **local file** / **Google Drive**; list, rename, read full text, read AI guide (summary + keywords)
+- **Chat**: Grounded Q&A, plus **chat instructions / persona** (system prompt) to steer the analysis
+- **Notes**: List, read, create, update, delete; save a chat answer straight to a note; **promote a note into a source**
+- **Studio generation**: Podcasts, Videos, Slides, Mind Maps, Infographics, Quizzes, Flashcards, Reports, Data Tables
+- **Artifacts**: List, check status, **wait for completion, and download** to disk
+- **Research**: Start web/Drive research, wait, and **import results as sources**
+
+> This fork extends the original 15 tools to **40**, exposing the full surface of
+> [`notebooklm-py`](https://github.com/teng-lin/notebooklm-py) so an agent can run a
+> complete iterative deep-research loop end to end. See
+> [`docs/iterative-research-workflow.md`](docs/iterative-research-workflow.md).
 
 ---
 
@@ -384,25 +392,75 @@ Once configured, use natural language commands in Claude Desktop or Claude Code:
 
 ---
 
-## Available Tools
+## Available Tools (40)
 
+### Notebooks
 | Tool | Description |
 |------|-------------|
 | `list_notebooks` | List all notebooks in your account |
 | `create_notebook` | Create a new notebook |
-| `add_source_url` | Add a website URL as a source |
-| `add_source_text` | Add raw text as a source |
-| `ask_notebook` | Ask a question based on notebook sources |
-| `get_notebook_summary` | Get summary and key insights |
-| `generate_audio_overview` | Generate a podcast-style audio |
-| `generate_video_overview` | Generate a video overview |
-| `generate_slide_deck` | Generate PowerPoint-style slides |
-| `generate_mind_map` | Generate an interactive mind map |
-| `generate_infographic` | Generate a visual infographic |
-| `generate_quiz` | Generate quiz questions |
-| `generate_flashcards` | Generate study flashcards |
-| `generate_summary_report` | Generate a briefing document |
-| `generate_data_table` | Extract data into a table |
+| `rename_notebook` | Rename a notebook |
+| `get_notebook_summary` | Get summary and key insights (via chat) |
+| `get_notebook_description` | AI description **+ suggested follow-up questions** (`suggested_topics`) |
+| `get_notebook_metadata` | Title, counts, timestamps, ownership |
+| `get_notebook_share_url` | Public share URL |
+
+### Chat
+| Tool | Description |
+|------|-------------|
+| `ask_notebook` | Ask a grounded question over the notebook's sources |
+| `configure_chat` | Set chat persona / **system instructions** |
+| `save_chat_answer_as_note` | Ask, then persist the answer as a note |
+
+### Sources
+| Tool | Description |
+|------|-------------|
+| `add_source_url` | Add a website URL or YouTube video |
+| `add_source_text` | Add raw text |
+| `add_source_file` | Upload a local file (PDF/MD/TXT/…) |
+| `add_source_drive` | Add a Google Drive file |
+| `list_sources` | List sources (id, title, type, status) |
+| `get_source_fulltext` | Extracted full text of a source |
+| `get_source_guide` | AI guide for a source (summary + keywords) |
+| `rename_source` | Rename a source |
+
+### Notes
+| Tool | Description |
+|------|-------------|
+| `list_notes` | List notes |
+| `get_note` | Read a note |
+| `create_note` | Create a note |
+| `update_note` | Update a note |
+| `delete_note` | Delete a note |
+| `note_to_source` | **Promote a note into a source** |
+
+### Studio generation
+| Tool | Description |
+|------|-------------|
+| `generate_audio_overview` | Podcast-style audio |
+| `generate_video_overview` | Video overview |
+| `generate_slide_deck` | Slides |
+| `generate_mind_map` | Interactive mind map |
+| `generate_infographic` | Infographic |
+| `generate_quiz` | Quiz |
+| `generate_flashcards` | Flashcards |
+| `generate_summary_report` | Briefing document |
+| `generate_data_table` | Data table |
+
+### Artifacts
+| Tool | Description |
+|------|-------------|
+| `list_artifacts` | List studio artifacts |
+| `get_artifact` | Artifact status/details |
+| `wait_for_artifact` | Block until a generation task completes |
+| `download_artifact` | Download an artifact to disk (audio/video/…) |
+
+### Research
+| Tool | Description |
+|------|-------------|
+| `start_research` | Start web/Drive research |
+| `wait_for_research` | Wait for a research task |
+| `import_research_sources` | Import discovered results as sources |
 
 ---
 
