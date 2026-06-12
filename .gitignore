@@ -5,3 +5,8 @@ __pycache__/
 storage_state.json
 .notebooklm/
 .env
+
+# auth session + its lock/rotate files (never commit — holds Google cookies)
+storage_state.json*
+.storage_state.json*
+.notebooklm/
