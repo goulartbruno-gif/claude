@@ -83,7 +83,9 @@ async def list_notebooks():
     """List all notebooks in your NotebookLM account."""
     client = await get_client()
     notebooks = await client.notebooks.list()
-    return [{"id": nb.id, "title": nb.title, "source_count": nb.source_count} for nb in notebooks]
+    # _ser is tolerant of the model's actual field set (older notebooklm-py
+    # Notebook objects don't expose `source_count`).
+    return [_ser(nb) for nb in notebooks]
 
 @mcp.tool()
 async def create_notebook(title: str):
