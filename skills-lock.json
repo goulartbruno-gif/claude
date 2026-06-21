@@ -349,6 +349,12 @@
       "skillPath": "skills/react-native-skills/SKILL.md",
       "computedHash": "2e9088a7333666d8c2833b8ff58bd51b955501c42b4c7244f72b4cbf22dafcc4"
     },
+    "verification-before-completion": {
+      "source": "obra/superpowers",
+      "sourceType": "github",
+      "skillPath": "skills/verification-before-completion/SKILL.md",
+      "computedHash": "9b446f0c7fe1cfb560b1d34439523b1a76d5f177290007b2c053a1c749a4a8ba"
+    },
     "video": {
       "source": "coreyhaines31/marketingskills",
       "sourceType": "github",
