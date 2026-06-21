@@ -301,6 +301,12 @@
       "skillPath": "skills/engineering/tdd/SKILL.md",
       "computedHash": "d5ca5c8ae0615f343f1cfd71591f4a586046d77b1f36e8d67b8f643bad51043e"
     },
+    "vercel-react-native-skills": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/react-native-skills/SKILL.md",
+      "computedHash": "2e9088a7333666d8c2833b8ff58bd51b955501c42b4c7244f72b4cbf22dafcc4"
+    },
     "video": {
       "source": "coreyhaines31/marketingskills",
       "sourceType": "github",
