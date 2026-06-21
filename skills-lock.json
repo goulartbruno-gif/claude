@@ -37,6 +37,12 @@
       "skillPath": "skills/aso/SKILL.md",
       "computedHash": "f84a1fb5cb1a8a7f7171bd60ae6850f24a82fa6af94bd5f12e5b3e9227480a34"
     },
+    "audit-website": {
+      "source": "squirrelscan/skills",
+      "sourceType": "github",
+      "skillPath": "audit-website/SKILL.md",
+      "computedHash": "8a8c2d5e9a03a7128f1d5298e1e7e0d88ae3b02315dd335405a42313fb9311f7"
+    },
     "brainstorming": {
       "source": "obra/superpowers",
       "sourceType": "github",
