@@ -127,6 +127,12 @@
       "skillPath": "skills/free-tools/SKILL.md",
       "computedHash": "3fd8ab504b9b6d791b307baed7a87f49b455fc084ff367772c7418b8a57ce56d"
     },
+    "grill-me": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/productivity/grill-me/SKILL.md",
+      "computedHash": "f321507f77702a54af1db66549ec1685fc625390d06c57d7949cdcda8eb1b5c7"
+    },
     "image": {
       "source": "coreyhaines31/marketingskills",
       "sourceType": "github",
