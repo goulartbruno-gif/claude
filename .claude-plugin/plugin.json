@@ -1,0 +1,10 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "notebooklm-assistant",
+  "displayName": "NotebookLM Assistant",
+  "version": "0.1.0",
+  "description": "MCP server for NotebookLM — create notebooks, add sources, generate podcasts, videos, slides, mind maps, quizzes, flashcards, and more.",
+  "keywords": ["mcp", "notebooklm", "ai", "podcast", "slides"],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}
