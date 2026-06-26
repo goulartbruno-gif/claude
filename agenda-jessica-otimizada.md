@@ -262,7 +262,7 @@ QUI PM: Separacao + etiquetas (auto/site) → ENTREGA antes das 16h → Quartos
 | 15:30-17:00 | Faxina: Quartos (1h30) | |
 | 17:00-17:30 | Metricas + filmes (30 min) | |
 | 17:30-20:00 | **Tempo com Julia (2h30)** | Sem jantar nesse dia |
-| 20:00-22:00 | **GVC** | |
+| 20:00-22:00 | **GVC** | Julia junto |
 
 ---
 
@@ -484,7 +484,7 @@ PM    Faxina    Faxina    TORREFACAO   Sep+Etiq   Faxina   Livre/   Terraco
 
 18h   JANTAR    JANTAR    JANTAR       JULIA      JANTAR   JANTAR   JANTAR
       +Julia    +Julia    +Julia       (s/ janta) +Julia   +Julia   +Julia
-20h   Rotina    Rotina    Rotina       GVC        Rotina   Rotina   Rotina
+20h   Rotina    Rotina    Rotina       GVC+Julia  Rotina   Rotina   Rotina
 22h   Dormir    Dormir    Dormir       Dormir     Dormir   Casal    Dormir
 ```
 
@@ -499,11 +499,11 @@ PM    Faxina    Faxina    TORREFACAO   Sep+Etiq   Faxina   Livre/   Terraco
 | Seg | 9:00-12:25 (3h25) | 12:30-13:30 (1h) | Jantar+brincar (2h) | **6h25** |
 | Ter | 9:00-12:25 (3h25, prova cafe em casa) | 12:30-13:30 (1h) | Jantar+brincar (2h) | **6h25** |
 | Qua | 9:00-12:25 (3h25) | 12:30-13:30 (1h) | Jantar+brincar (2h) | **6h25** |
-| Qui | 9:00-9:30 + 11:40-12:25 (1h15) | 12:30-13:30 (1h) | 17:30-20:00 (2h30, sem jantar) | **4h45** |
+| Qui | 9:00-9:30 + 11:40-12:25 (1h15) | 12:30-13:30 (1h) | 17:30-22:00 (4h30, sem jantar + GVC) | **6h45** |
 | Sex | 9:00-10:30 + 12:00-12:25 (1h55) | 12:30-13:30 (1h) | Jantar+brincar (2h) | **4h55** |
 | Sab | 9:00-12:00 (3h) + 15:00-18:00 (3h) | almoco (1h) | Jantar+brincar (2h) | **9h** |
 | Dom | -- (igreja) | almoco (30min) | 15:45-18:00 + Jantar+brincar (4h15) | **4h45** |
-| **TOTAL SEMANAL** | | | | **~42h40** |
+| **TOTAL SEMANAL** | | | | **~44h40** |
 
 Jantar cozinhando com Julia na cozinha tambem e tempo em familia!
 
