@@ -54,8 +54,8 @@
 | Selar (automatica c/ esteira) | ~15min passagem + ~15min troca data | 0h30 |
 | Montar caixas | 26 x 5min | 2h10 |
 | Separacao + etiquetas (auto/site) | papel autocolante | ~1h00 |
-| Entrega (antes 16h) | Jessica leva | ~1h00 |
-| **Total Jessica** | | **~6h54** |
+| Entrega (antes 16h) | Jessica leva | ~0h20 |
+| **Total Jessica** | | **~6h14** |
 
 **Automacao do site:** Pedidos pelo site com geracao automatica de etiquetas (papel autocolante) e notas fiscais.
 
@@ -80,11 +80,11 @@
 | Cozinhar jantar (6x, sem quinta) | 4h30 |
 | Pessoal | 12h20 |
 | Compromissos fixos | 8h00 |
-| Cafe (Jessica) | 6h54 |
+| Cafe (Jessica) | 6h14 |
 | Papelaria (base) | 4h30 |
-| **TOTAL JESSICA** | **~51h24** |
+| **TOTAL JESSICA** | **~50h44** |
 
-Isso equivale a cerca de **7h20 por dia, todos os dias**, so de tarefas.
+Isso equivale a cerca de **7h15 por dia, todos os dias**, so de tarefas.
 O jantar (45 min/dia) e feito com Julia por perto = tempo em familia.
 
 ---
@@ -258,10 +258,10 @@ QUI PM: Separacao + etiquetas (auto/site) → ENTREGA antes das 16h → Quartos
 | 12:30-13:30 | **Almoco na casa da mae com Julia** | |
 | **13:30-18:00** | **BLOCO FOCADO (4h30):** | **Julia fica com avo** |
 | 13:30-14:30 | Separacao + etiquetas auto (~1h) | Etiquetas do site, papel autocolante |
-| 14:30-15:30 | **ENTREGA (~1h, Jessica leva)** | **Chegar antes das 16h!** |
-| 15:30-17:00 | Faxina: Quartos (1h30) | |
-| 17:00-17:30 | Metricas + filmes (30 min) | |
-| 17:30-20:00 | **Tempo com Julia (2h30)** | Sem jantar nesse dia |
+| 14:30-14:50 | **ENTREGA (~20 min)** | **Antes das 16h** |
+| 14:50-16:20 | Faxina: Quartos (1h30) | |
+| 16:20-16:50 | Metricas + filmes (30 min) | |
+| 16:50-20:00 | **Tempo com Julia (3h10)** | Sem jantar nesse dia |
 | 20:00-22:00 | **GVC** | Julia junto |
 
 ---
@@ -499,11 +499,11 @@ PM    Faxina    Faxina    TORREFACAO   Sep+Etiq   Faxina   Livre/   Terraco
 | Seg | 9:00-12:25 (3h25) | 12:30-13:30 (1h) | Jantar+brincar (2h) | **6h25** |
 | Ter | 9:00-12:25 (3h25, prova cafe em casa) | 12:30-13:30 (1h) | Jantar+brincar (2h) | **6h25** |
 | Qua | 9:00-12:25 (3h25) | 12:30-13:30 (1h) | Jantar+brincar (2h) | **6h25** |
-| Qui | 9:00-9:30 + 11:40-12:25 (1h15) | 12:30-13:30 (1h) | 17:30-22:00 (4h30, sem jantar + GVC) | **6h45** |
+| Qui | 9:00-9:30 + 11:40-12:25 (1h15) | 12:30-13:30 (1h) | 16:50-22:00 (5h10, sem jantar + GVC) | **7h25** |
 | Sex | 9:00-10:30 + 12:00-12:25 (1h55) | 12:30-13:30 (1h) | Jantar+brincar (2h) | **4h55** |
 | Sab | 9:00-12:00 (3h) + 15:00-18:00 (3h) | almoco (1h) | Jantar+brincar (2h) | **9h** |
 | Dom | -- (igreja) | almoco (30min) | 15:45-18:00 + Jantar+brincar (4h15) | **4h45** |
-| **TOTAL SEMANAL** | | | | **~44h40** |
+| **TOTAL SEMANAL** | | | | **~45h20** |
 
 Jantar cozinhando com Julia na cozinha tambem e tempo em familia!
 
