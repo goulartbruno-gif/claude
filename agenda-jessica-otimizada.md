@@ -5,8 +5,8 @@
 ### Tarefas Diarias (7 dias)
 | Tarefa | Tempo | Local | Total/semana |
 |--------|-------|-------|-------------|
-| Limpar varanda (manutencao) | 25 min | Varanda | 2h55 |
-| Limpar terraco (manutencao) | 10 min | Terraco | 1h10 |
+| Limpar varanda (manutencao) | 10 min | Varanda | 1h10 |
+| Limpar terraco (manutencao) | 25 min | Terraco | 2h55 |
 | Cuidar dos cachorros | 20 min | Terraco | 2h20 |
 | Lavar roupas | 20 min | Terraco | 2h20 |
 | **Subtotal diario** | **75 min/dia** | | **8h45** |
@@ -52,10 +52,10 @@
 | Empacotamento | 65/36 x 60min | 1h48 | 0h54 | 0h54 |
 | Pintura de pacote | 65 em 1h | 1h00 | 1h00 | - |
 | Preparo de rotulo | 65/120 x 60min | 0h33 | 0h33 | - |
-| Selar | 65 x 1min | 1h05 | 1h05 | - |
+| Selar (automatica c/ esteira) | ~15min passagem + ~15min troca data | 0h30 | 0h30 | - |
 | Montar caixas | 26 x 5min | 2h10 | 2h10 | - |
 | Separacao + etiquetas | 26 x 5min | 2h10 | 2h10 | - |
-| **Total** | | **~10h** | **~8h14** | **~1h16** |
+| **Total** | | **~9h25** | **~7h39** | **~1h16** |
 
 ### Papelaria
 | Tarefa | Frequencia | Tempo | Total/semana |
@@ -78,11 +78,11 @@
 | Cozinhar jantar (com Bruno) | 5h15 |
 | Pessoal | 12h20 |
 | Compromissos fixos | 8h00 |
-| Cafe (Jessica) | 8h14 |
+| Cafe (Jessica) | 7h39 |
 | Papelaria (base) | 4h30 |
-| **TOTAL JESSICA** | **~55h29** |
+| **TOTAL JESSICA** | **~54h54** |
 
-Isso equivale a cerca de **7h55 por dia, todos os dias**, so de tarefas.
+Isso equivale a cerca de **7h50 por dia, todos os dias**, so de tarefas.
 Porem o jantar (45 min/dia) e compartilhado com Bruno e feito com Julia por perto = tempo em familia.
 Bruno contribui ~1h16/semana com moagem e empacotamento + ~5h15 no jantar.
 
@@ -98,9 +98,9 @@ Bruno contribui ~1h16/semana com moagem e empacotamento + ~5h15 no jantar.
 | Musculacao | 5:25-6:05 | 40 min |
 | Banho (+ cabelo em dias alternados) | 6:05-6:35 | 30 min |
 | Devocional | 6:35-7:35 | 1h |
-| Terraco matinal (roupas + cachorros + limpeza) | 7:35-8:10 | 35 min |
-| Limpar varanda | 8:10-8:35 | 25 min |
-| Tempo livre / preparar casa | 8:35-9:00 | 25 min |
+| Terraco matinal (terraco 25min + cachorros 20min + maquina 5min) | 7:35-8:25 | 50 min |
+| Estender roupas + varanda (10 min) | 8:25-8:50 | 25 min |
+| Tempo livre / preparar casa | 8:50-9:00 | 10 min |
 | Julia acorda / cafe da manha juntas | 9:00 | |
 
 Nos dias **sem academia** (sabado e domingo): acordar as **6:15** e ter 1h15 extra de sono.
@@ -146,9 +146,9 @@ QUI: ENTREGA
 | 5:25-6:05 | Musculacao | |
 | 6:05-6:35 | Banho + lavar cabelo | Dia de cabelo |
 | 6:35-7:35 | Devocional | |
-| 7:35-8:10 | **BLOCO TERRACO**: ligar maquina, limpar terraco, cachorros | 35 min |
-| 8:10-8:35 | Limpar varanda + estender roupas | |
-| 8:35-9:00 | Tempo livre / preparar casa | Julia ainda dorme |
+| 7:35-8:25 | **BLOCO TERRACO**: maquina, limpar terraco (25min), cachorros (20min) | 50 min |
+| 8:25-8:50 | Estender roupas + limpar varanda (10 min) | |
+| 8:50-9:00 | Tempo livre | Julia ainda dorme |
 | **9:00** | **Julia acorda** | |
 | 9:00-9:30 | Cafe da manha com Julia | |
 | 9:30-12:25 | **TEMPO COM JULIA (2h55)** | Sem producao de cafe! |
@@ -178,9 +178,9 @@ QUI: ENTREGA
 | 5:25-6:05 | Musculacao | |
 | 6:05-6:25 | Banho (sem cabelo) | |
 | 6:25-7:25 | Devocional | |
-| 7:25-8:00 | **BLOCO TERRACO**: maquina, terraco, cachorros | |
-| 8:00-8:35 | Varanda + estender roupas | |
-| 8:35-9:00 | Tempo livre | Julia ainda dorme |
+| 7:25-8:15 | **BLOCO TERRACO**: maquina, terraco (25min), cachorros (20min) | 50 min |
+| 8:15-8:40 | Estender roupas + varanda (10 min) | |
+| 8:40-9:00 | Tempo livre | Julia ainda dorme |
 | **9:00** | **Julia acorda** | |
 | 9:00-9:30 | Cafe da manha com Julia | |
 | 9:30-10:00 | **Prova do cafe com Bruno (~30 min)** | Em casa! Julia por perto |
@@ -200,10 +200,9 @@ QUI: ENTREGA
 
 ---
 
-### QUARTA-FEIRA - DIA DA TORREFACAO + Faxina Quartos
+### QUARTA-FEIRA - DIA DA TORREFACAO (tarde) + Faxina Quartos
 
-*Jessica vai a torrefacao de manha para moer, empacotar e selar. Bruno cuida da Julia.*
-*A tarde: faxina + tarefas de embalagem em casa.*
+*Manha com Julia. Tarde: torrefacao (moer+empacotar+selar) enquanto Julia fica com avo.*
 
 | Horario | Atividade | Notas |
 |---------|-----------|-------|
@@ -211,24 +210,22 @@ QUI: ENTREGA
 | 5:25-6:05 | Musculacao | |
 | 6:05-6:35 | Banho + lavar cabelo | Dia de cabelo |
 | 6:35-7:35 | Devocional | |
-| 7:35-8:10 | **BLOCO TERRACO** | |
-| 8:10-8:35 | Varanda + roupas | |
-| 8:35-9:00 | Tempo livre | |
-| **9:00** | **Julia acorda** — fica com Bruno | |
-| 9:00-9:20 | Ir para torrefacao (20 min) | Bruno cuida da Julia |
-| 9:20-9:42 | **Moer (~22 pacotes, metade dela = 22 min)** | Bruno faz outra metade |
-| 9:42-10:36 | **Empacotar (metade dela = 54 min)** | Bruno faz outra metade |
-| 10:36-11:41 | **Selar todos (1h05)** | |
-| 11:41-12:01 | Voltar da torrefacao (20 min) | Direto pra casa |
-| 12:01-12:28 | Descansar / Julia | |
+| 7:35-8:25 | **BLOCO TERRACO**: maquina, terraco (25min), cachorros (20min) | 50 min |
+| 8:25-8:50 | Estender roupas + varanda (10 min) | |
+| 8:50-9:00 | Tempo livre | |
+| **9:00** | **Julia acorda** | |
+| 9:00-9:30 | Cafe da manha com Julia | |
+| 9:30-12:25 | **TEMPO COM JULIA (2h55!)** | Manha inteira! |
 | 12:28 | Ir para casa da mae (2 min) | |
 | 12:30-13:30 | **Almoco na casa da mae com Julia** | |
 | **13:30-18:00** | **BLOCO FOCADO (4h30):** | **Julia fica com avo** |
-| 13:30-15:00 | Faxina: Quartos (1h30) | |
-| 15:00-16:00 | CAFE em casa: Pintura pacotes (1h) | |
-| 16:00-16:33 | CAFE em casa: Rotulos (33 min) | |
-| 16:33-17:03 | Metricas + filmes | 30 min |
-| 17:03-18:00 | Buffer / scrapbooks | |
+| 13:30-13:50 | Ir para torrefacao (20 min) | |
+| 13:50-14:12 | **Moer (~22 pacotes, metade dela = 22 min)** | Bruno faz outra metade |
+| 14:12-15:06 | **Empacotar (metade dela = 54 min)** | Bruno faz outra metade |
+| 15:06-15:36 | **Selar (seladora automatica = ~30 min)** | Inclui troca de data se necessario |
+| 15:36-15:56 | Voltar pra casa (20 min) | |
+| 15:56-17:26 | Faxina: Quartos (1h30) | |
+| 17:26-18:00 | Metricas + filmes (30 min) | |
 | 18:00-18:45 | **Cozinhar jantar (Bruno + Jessica)** | Julia na cozinha junto |
 | 18:45-19:15 | **Jantar em familia** | |
 | 19:15-20:00 | Brincar com Julia | |
@@ -236,9 +233,9 @@ QUI: ENTREGA
 
 ---
 
-### QUINTA-FEIRA - Embalagem final + Entrega + Faxina Sala + GVC
+### QUINTA-FEIRA - Embalagem final + Entrega + GVC
 
-*Caixas e separacao em casa, entrega a tarde.*
+*Pintura + rotulos de manha, caixas + separacao + entrega a tarde.*
 
 | Horario | Atividade | Notas |
 |---------|-----------|-------|
@@ -246,20 +243,20 @@ QUI: ENTREGA
 | 5:25-6:05 | Musculacao | |
 | 6:05-6:25 | Banho | |
 | 6:25-7:25 | Devocional | |
-| 7:25-8:00 | **BLOCO TERRACO** | |
-| 8:00-8:35 | Varanda + roupas | |
-| 8:35-9:00 | Tempo livre | |
+| 7:25-8:15 | **BLOCO TERRACO**: maquina, terraco (25min), cachorros (20min) | 50 min |
+| 8:15-8:40 | Estender roupas + varanda (10 min) | |
+| 8:40-9:00 | Tempo livre | |
 | **9:00** | **Julia acorda** | |
 | 9:00-9:30 | Cafe da manha com Julia | |
-| 9:30-11:40 | **CAFE em casa: Montar caixas (26 = 2h10)** | Revezamento com Bruno |
-| 11:40-12:28 | Tempo com Julia (~48 min) | |
+| 9:30-10:30 | **CAFE em casa: Pintura pacotes (1h)** | Revezamento com Bruno |
+| 10:30-11:03 | **CAFE em casa: Rotulos (33 min)** | |
+| 11:03-12:25 | **Tempo com Julia (~1h22)** | |
 | 12:28 | Ir para casa da mae (2 min) | |
 | 12:30-13:30 | **Almoco na casa da mae com Julia** | |
 | **13:30-18:00** | **BLOCO FOCADO (4h30):** | **Julia fica com avo** |
-| 13:30-15:40 | CAFE em casa: Separacao + etiquetas (26 = 2h10) | |
-| 15:40-16:40 | **ENTREGA DO CAFE** | |
-| 16:40-17:40 | Faxina: Sala (1h) | |
-| 17:40-18:00 | Buffer | |
+| 13:30-15:40 | CAFE em casa: Montar caixas (26 = 2h10) | |
+| 15:40-17:50 | CAFE em casa: Separacao + etiquetas (26 = 2h10) | |
+| 17:50-18:00 | **ENTREGA / Bruno leva OU agendar retirada** | |
 | 18:00-18:45 | **Cozinhar jantar (Bruno + Jessica)** | Julia na cozinha junto |
 | 18:45-19:15 | **Jantar em familia** | |
 | 19:15-20:00 | Brincar com Julia | |
@@ -267,7 +264,7 @@ QUI: ENTREGA
 
 ---
 
-### SEXTA-FEIRA - Faxina Escritorio + Papelaria + Unhas
+### SEXTA-FEIRA - Faxina (Escritorio + Sala) + Papelaria + Unhas
 
 | Horario | Atividade | Notas |
 |---------|-----------|-------|
@@ -275,23 +272,23 @@ QUI: ENTREGA
 | 5:25-6:05 | Musculacao | |
 | 6:05-6:35 | Banho + lavar cabelo | Dia de cabelo |
 | 6:35-7:35 | Devocional | |
-| 7:35-8:10 | **BLOCO TERRACO** | |
-| 8:10-8:35 | Varanda + roupas | |
-| 8:35-9:00 | Tempo livre | |
+| 7:35-8:25 | **BLOCO TERRACO**: maquina, terraco (25min), cachorros (20min) | 50 min |
+| 8:25-8:50 | Estender roupas + varanda (10 min) | |
+| 8:50-9:00 | Tempo livre | |
 | **9:00** | **Julia acorda** | |
 | 9:00-9:30 | Cafe da manha com Julia | |
 | 9:30-10:30 | **Tempo com Julia / atividades juntas** | Prioridade |
 | 10:30-12:00 | Papelaria: producao de scrapbooks | Revezamento Bruno |
-| 12:00-12:28 | Tempo com Julia | |
+| 12:00-12:25 | Tempo com Julia | |
 | 12:28 | Ir para casa da mae (2 min) | |
 | 12:30-13:30 | **Almoco na casa da mae com Julia** | |
 | **13:30-18:00** | **BLOCO FOCADO (4h30):** | **Julia fica com avo** |
 | 13:30-14:30 | Faxina: Escritorio + corredor (1h) | |
-| 14:30-15:30 | Faxina: Roupa de cama (40 min) + Varanda profunda (30 min) | TERRACO - tudo junto |
-| 15:30-16:00 | Cuidar das unhas (30 min) | Pessoal |
-| 16:00-17:00 | Papelaria: scrapbooks | |
-| 17:00-17:30 | Metricas + filmes | |
-| 17:30-18:00 | Buffer | |
+| 14:30-15:30 | Faxina: Sala (1h) | |
+| 15:30-16:10 | Faxina: Roupa de cama (40 min) | TERRACO |
+| 16:10-16:40 | Cuidar das unhas (30 min) | Pessoal |
+| 16:40-17:10 | Metricas + filmes | 30 min |
+| 17:10-18:00 | Buffer / scrapbooks | |
 | 18:00-18:45 | **Cozinhar jantar (Bruno + Jessica)** | Julia na cozinha junto |
 | 18:45-19:15 | **Jantar em familia** | |
 | 19:15-20:00 | Brincar com Julia | |
@@ -305,8 +302,8 @@ QUI: ENTREGA
 |---------|-----------|-------|
 | **6:15** | Acordar (1h a mais de sono!) | Sem academia |
 | 6:25-7:25 | Devocional | |
-| 7:25-8:30 | **BLOCO TERRACO** + limpar terraco profundo (1h) | Aproveitar + faxina semanal |
-| 8:30-9:00 | Varanda + roupas + tempo livre | |
+| 7:25-8:55 | **BLOCO TERRACO PROFUNDO**: maquina, terraco profundo (1h, inclui manutencao), cachorros (20min), varanda profunda (30min), roupas | Faxina semanal completa |
+| 8:55-9:00 | Preparar para Julia | |
 | **9:00** | **Julia acorda** | |
 | 9:00-12:00 | **Manha em familia** | Julia + Bruno |
 | 12:00-13:30 | Almoco | Em casa ou na mae |
@@ -326,8 +323,8 @@ QUI: ENTREGA
 |---------|-----------|-------|
 | **6:15** | Acordar | Sem academia |
 | 6:25-7:25 | Devocional | |
-| 7:25-7:50 | BLOCO TERRACO (rapido): cachorros + terraco | Simplificado |
-| 7:50-8:00 | Sair para igreja | |
+| 7:25-7:55 | BLOCO TERRACO (rapido): maquina, terraco (25min), cachorros (20min) | Simplificado, sem estender |
+| 7:55-8:00 | Sair para igreja | |
 | **8:00-14:00** | **Igreja** | Bruno com Julia |
 | 14:00-14:30 | Almoco | |
 | 14:30-16:00 | **Tempo em familia / descanso** | |
@@ -350,12 +347,10 @@ QUI: ENTREGA
 - **Economia estimada: 1h30-2h/semana**
 - Tambem serve para etiquetas de envio dos Correios
 
-### 2. Selagem - MEDIO IMPACTO
-**Atual:** 1 min por pacote = 1h05/semana
-**Solucao:** Seladora continua de esteira (em vez de manual)
-- Passa o pacote e ele sela automaticamente
-- Reduz para ~15-20 seg por pacote
-- **Economia: ~30-40 min/semana**
+### 2. Selagem - JA OTIMIZADO ✓
+**Atual:** Seladora automatica com esteira (~30 min/semana incluindo trocas de data)
+- Jessica ja usa seladora continua de esteira
+- Tempo atual ja e otimo, sem necessidade de investimento adicional
 
 ### 3. Moagem - MEDIO IMPACTO
 **Atual:** 2 min por pacote = 2h10/semana
@@ -383,23 +378,23 @@ QUI: ENTREGA
 - Programar a maquina para terminar no horario que Jessica vai ao terraco
 - Algumas maquinas tem timer de inicio programado
 
-### Total possivel de automacao: **~4-5h/semana**
+### Total possivel de automacao: **~3-4h/semana** (selagem ja esta otimizada)
 
 ---
 
 ## ESTRATEGIA DE AGRUPAMENTO POR LOCAL (TERRACO)
 
-### Bloco Terraco Matinal (todos os dias) - 35 min otimizados
+### Bloco Terraco Matinal (todos os dias) - 50 min otimizados
 
 ```
 1. Subir ao terraco (0 min - ja vai direto)
-2. Ligar maquina de lavar (2 min)
+2. Ligar maquina de lavar (5 min - incluir preparar roupa)
 3. Enquanto maquina roda:
-   - Limpar terraco (10 min)
+   - Limpar terraco (25 min)
    - Cuidar dos cachorros (20 min)
 4. Quando maquina apita: estender roupas (15 min)
    OU recolher roupas do dia anterior (5 min)
-5. Descer do terraco = acabou
+5. Descer, limpar varanda (10 min)
 ```
 
 **Regra de ouro:** NUNCA subir ao terraco pra fazer so uma coisa. Sempre que subir, verificar:
@@ -414,13 +409,11 @@ QUI: ENTREGA
 
 ### Rota Torrefacao - otimizar deslocamento
 
-A torrefacao fica a 20 min de carro. Jessica vai 2x/semana:
+A torrefacao fica a 20 min de carro. Jessica vai **1x/semana** (quarta a tarde):
 
-**Terca:** Prova do cafe e feita **em casa** com Bruno. Sem deslocamento.
+**Quarta PM (UNICA ida da semana):** Julia fica com avo a partir das 13:30. Jessica sai 13:30 → torrefacao (20 min) → moer + empacotar + selar (~1h46) → volta pra casa (20 min) → em casa ~15:56, faz faxina quartos.
 
-**Quarta (UNICA ida da semana):** Sai de casa 9h → torrefacao (20 min) → trabalha ~2h21 → volta pra casa (20 min) → chegando ~12:01, descansa, e vai pra mae (2 min a pe) pro almoco 12:30.
-
-**Vantagem:** So 1 ida a torrefacao por semana. Mae na mesma rua = zero tempo perdido na transicao almoco/avo.
+**Vantagem:** So 1 ida a torrefacao por semana, sempre a tarde (Julia segura com avo). Mae na mesma rua = zero tempo perdido na transicao almoco/avo.
 
 ---
 
@@ -482,17 +475,17 @@ Antes de dormir, deixar pronto para o dia seguinte:
        Devoc     Devoc     Devoc        Devoc      Devoc    Devoc    Devoc
        Terraco   Terraco   Terraco      Terraco    Terraco  Terraco  Terraco
 
-AM    JULIA     JULIA     TORREFACAO   Caixas     Julia    FAMILIA  IGREJA
-      3h!       Prova     Moer+Emp     +Julia     Scrap             8-14h
-      (sem cafe) em casa   +Selar      (48min)
+AM    JULIA     JULIA     JULIA        Pintura    Julia    FAMILIA  IGREJA
+      3h!       Prova     3h!          Rotulos    Scrap             8-14h
+      (sem cafe) em casa  (sem cafe)   +Julia
 
       ---- almoco na mae 12:30 (2 min a pe) ----
 
-PM    Faxina    Faxina    Faxina       Faxina     Faxina   Livre/   Pedidos
-13:30 Banheir   Cozinha   Quartos      Sep+Etiq   Escrit   Yorksh   Familia
-      Papel     Papel     Pintura      ENTREGA    Roupa
-      Scrap     Scrap     Rotulos      Sala       Unhas
-                                                   Scrap
+PM    Faxina    Faxina    TORREFACAO   Faxina     Faxina   Livre/   Pedidos
+13:30 Banheir   Cozinha   Moer+Emp     Caixas     Escrit   Yorksh   Familia
+      Papel     Papel     +Selar       Sep+Etiq   Sala
+      Scrap     Scrap     Quartos      ENTREGA    Roupa
+                                                   Unhas
 
 18h   JANTAR    JANTAR    JANTAR       JANTAR     JANTAR   JANTAR   JANTAR
       +Julia    +Julia    +Julia       +Julia     +Julia   +Julia   +Julia
@@ -510,12 +503,12 @@ PM    Faxina    Faxina    Faxina       Faxina     Faxina   Livre/   Pedidos
 |-----|-------------|-------------|----------------|-------|
 | Seg | 9:00-12:25 (3h25) | 12:30-13:30 (1h) | Jantar+brincar (2h) | **6h25** |
 | Ter | 9:00-12:25 (3h25, prova cafe em casa) | 12:30-13:30 (1h) | Jantar+brincar (2h) | **6h25** |
-| Qua | 12:01-12:28 (27min) | 12:30-13:30 (1h) | Jantar+brincar (2h) | **3h27** |
-| Qui | 9:00-9:30 + 11:40-12:28 (1h18) | 12:30-13:30 (1h) | Jantar+brincar (2h) | **4h18** |
+| Qua | 9:00-12:25 (3h25) | 12:30-13:30 (1h) | Jantar+brincar (2h) | **6h25** |
+| Qui | 9:00-9:30 + 11:03-12:25 (1h52) | 12:30-13:30 (1h) | Jantar+brincar (2h) | **4h52** |
 | Sex | 9:00-10:30 + 12:00-12:28 (1h58) | 12:30-13:30 (1h) | Jantar+brincar (2h) | **4h58** |
 | Sab | 9:00-12:00 (3h) + 15:00-18:00 (3h) | almoco (1h) | Jantar+brincar (2h) | **9h** |
 | Dom | -- (igreja) | almoco (30min) | 14:30-16:00 + Jantar+brincar (3h45) | **4h15** |
-| **TOTAL SEMANAL** | | | | **~38h48** |
+| **TOTAL SEMANAL** | | | | **~42h20** |
 
 Jantar cozinhando juntos (Bruno+Jessica+Julia na cozinha) tambem e tempo em familia!
 
