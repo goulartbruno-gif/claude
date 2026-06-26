@@ -118,7 +118,7 @@ Jessica dorme no quarto da Julia, o que prejudica a qualidade do sono e dificult
 
 1. **Agrupamento por local (terraco)** - todas as tarefas de terraco em um unico bloco
 2. **Maquina de lavar como timer** - iniciar a maquina e fazer outras tarefas enquanto roda
-3. **Minimizar idas a torrefacao** - Jessica vai 2x/semana (terca prova, quarta producao)
+3. **Torrefacao 1x/semana** - Jessica vai so na quarta (producao). Prova do cafe e feita em casa
 4. **Producao em casa apos torrefacao** (qua PM + qui) → entrega quinta
 5. **Faxina distribuida** - 1 comodo por dia em vez de tudo de uma vez
 6. **Cabelo apos academia** - economiza um banho separado
@@ -128,8 +128,8 @@ Jessica dorme no quarto da Julia, o que prejudica a qualidade do sono e dificult
 
 ```
 SEG: Bruno torra na torrefacao (Jessica NAO vai)
-TER: Bruno + Jessica provam o cafe (ida rapida)
-QUA: Jessica na torrefacao: moer + empacotar + selar (dia de producao)
+TER: Bruno + Jessica provam o cafe EM CASA
+QUA: Jessica na torrefacao: moer + empacotar + selar (UNICA ida da semana)
 QUA PM + QUI: Em casa: pintura, rotulos, caixas, separacao
 QUI: ENTREGA
 ```
@@ -168,9 +168,9 @@ QUI: ENTREGA
 
 ---
 
-### TERCA-FEIRA - Prova do cafe + Faxina Cozinha
+### TERCA-FEIRA - Prova do cafe (em casa) + Faxina Cozinha
 
-*Jessica vai a torrefacao para provar o cafe com Bruno (ida rapida apos almoco).*
+*Prova do cafe em casa com Bruno. Sem ida a torrefacao.*
 
 | Horario | Atividade | Notas |
 |---------|-----------|-------|
@@ -183,16 +183,16 @@ QUI: ENTREGA
 | 8:35-9:00 | Tempo livre | Julia ainda dorme |
 | **9:00** | **Julia acorda** | |
 | 9:00-9:30 | Cafe da manha com Julia | |
-| 9:30-12:25 | **TEMPO COM JULIA (2h55)** | Manha inteira livre! |
+| 9:30-10:00 | **Prova do cafe com Bruno (~30 min)** | Em casa! Julia por perto |
+| 10:00-12:25 | **TEMPO COM JULIA (2h25)** | |
 | 12:28 | Ir para casa da mae (2 min) | |
 | 12:30-13:30 | **Almoco na casa da mae com Julia** | |
-| 13:30-13:50 | Ir para torrefacao (20 min) | Julia fica com avo |
-| 13:50-14:20 | **Prova do cafe com Bruno (~30 min)** | Avaliar torra de segunda |
-| 14:20-14:40 | Voltar para casa (20 min) | |
-| 14:40-15:40 | Faxina: Cozinha (1h) | |
-| 15:40-16:40 | Papelaria: design de capas (1h) | 2a sessao da semana |
-| 16:40-17:10 | Metricas + filmes | 30 min |
-| 17:10-18:00 | Papelaria: scrapbooks / buffer | |
+| **13:30-18:00** | **BLOCO FOCADO (4h30):** | **Julia fica com avo** |
+| 13:30-14:30 | Faxina: Cozinha (1h) | |
+| 14:30-15:30 | Papelaria: design de capas (1h) | 2a sessao da semana |
+| 15:30-16:30 | Papelaria: producao de scrapbooks | |
+| 16:30-17:00 | Metricas + filmes | 30 min |
+| 17:00-18:00 | Buffer / adiantar tarefas | |
 | 18:00-18:45 | **Cozinhar jantar (Bruno + Jessica)** | Julia na cozinha junto |
 | 18:45-19:15 | **Jantar em familia** | |
 | 19:15-20:00 | Brincar com Julia | |
@@ -416,11 +416,11 @@ QUI: ENTREGA
 
 A torrefacao fica a 20 min de carro. Jessica vai 2x/semana:
 
-**Terca (prova rapida):** Almoco na mae → sai direto pra torrefacao (20 min). Prova ~30 min. Volta pra casa (20 min). Tempo fora: ~1h10. Sobra 3h20 de bloco focado.
+**Terca:** Prova do cafe e feita **em casa** com Bruno. Sem deslocamento.
 
-**Quarta (producao):** Sai de casa 9h → torrefacao (20 min) → trabalha ~2h21 → volta pra casa (20 min) → chegando ~12:01, descansa, e vai pra mae (2 min a pe) pro almoco 12:30.
+**Quarta (UNICA ida da semana):** Sai de casa 9h → torrefacao (20 min) → trabalha ~2h21 → volta pra casa (20 min) → chegando ~12:01, descansa, e vai pra mae (2 min a pe) pro almoco 12:30.
 
-**Vantagem:** Mae na mesma rua = zero tempo perdido na transicao almoco/avo. Jessica sai de casa 12:28, chega na mae 12:30.
+**Vantagem:** So 1 ida a torrefacao por semana. Mae na mesma rua = zero tempo perdido na transicao almoco/avo.
 
 ---
 
@@ -483,16 +483,16 @@ Antes de dormir, deixar pronto para o dia seguinte:
        Terraco   Terraco   Terraco      Terraco    Terraco  Terraco  Terraco
 
 AM    JULIA     JULIA     TORREFACAO   Caixas     Julia    FAMILIA  IGREJA
-      3h!       3h!       Moer+Emp     +Julia     Scrap             8-14h
-      (sem cafe) (sem cafe) +Selar      (50min)
+      3h!       Prova     Moer+Emp     +Julia     Scrap             8-14h
+      (sem cafe) em casa   +Selar      (48min)
 
       ---- almoco na mae 12:30 (2 min a pe) ----
 
-PM    Faxina    Prova     Faxina       Faxina     Faxina   Livre/   Pedidos
-13:30 Banheir   cafe(ida) Quartos      Sep+Etiq   Escrit   Yorksh   Familia
-      Papel     Fax.Coz   Pintura      ENTREGA    Roupa
-      Scrap     Papel     Rotulos      Sala       Unhas
-                Scrap                              Scrap
+PM    Faxina    Faxina    Faxina       Faxina     Faxina   Livre/   Pedidos
+13:30 Banheir   Cozinha   Quartos      Sep+Etiq   Escrit   Yorksh   Familia
+      Papel     Papel     Pintura      ENTREGA    Roupa
+      Scrap     Scrap     Rotulos      Sala       Unhas
+                                                   Scrap
 
 18h   JANTAR    JANTAR    JANTAR       JANTAR     JANTAR   JANTAR   JANTAR
       +Julia    +Julia    +Julia       +Julia     +Julia   +Julia   +Julia
@@ -509,7 +509,7 @@ PM    Faxina    Prova     Faxina       Faxina     Faxina   Livre/   Pedidos
 | Dia | Manha (9h+) | Almoco (mae) | Noite (18-20h) | Total |
 |-----|-------------|-------------|----------------|-------|
 | Seg | 9:00-12:25 (3h25) | 12:30-13:30 (1h) | Jantar+brincar (2h) | **6h25** |
-| Ter | 9:00-12:25 (3h25) | 12:30-13:30 (1h) | Jantar+brincar (2h) | **6h25** |
+| Ter | 9:00-12:25 (3h25, prova cafe em casa) | 12:30-13:30 (1h) | Jantar+brincar (2h) | **6h25** |
 | Qua | 12:01-12:28 (27min) | 12:30-13:30 (1h) | Jantar+brincar (2h) | **3h27** |
 | Qui | 9:00-9:30 + 11:40-12:28 (1h18) | 12:30-13:30 (1h) | Jantar+brincar (2h) | **4h18** |
 | Sex | 9:00-10:30 + 12:00-12:28 (1h58) | 12:30-13:30 (1h) | Jantar+brincar (2h) | **4h58** |
