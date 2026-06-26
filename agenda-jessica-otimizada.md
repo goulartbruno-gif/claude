@@ -45,17 +45,17 @@
 | GVC | Quinta | 20h-22h | 2h |
 | **Total** | | | **8h** |
 
-### Cafe (65 pedidos/semana, ~26 caixas com media de 2-3 pacotes por caixa)
-| Etapa | Calculo | Tempo total |
-|-------|---------|------------|
-| Pintura de pacote | 65 em 1h | 1h00 |
-| Preparo de rotulo | 65/120 x 60min | 0h33 |
-| Empacotamento | 65/36 x 60min | 1h48 |
-| Moer | 65 x 2min | 2h10 |
-| Selar | 65 x 1min | 1h05 |
-| Montar caixas | 26 x 5min | 2h10 |
-| Separacao + etiquetas | 26 x 5min | 2h10 |
-| **Total cafe** | | **~11h** |
+### Cafe (65 pedidos/semana, ~26 caixas, ~1/3 moido, tarefas divididas com Bruno)
+| Etapa | Calculo | Total | Jessica | Bruno |
+|-------|---------|-------|---------|-------|
+| Moer (~22 pacotes) | 22 x 2min = 44min | 0h44 | 0h22 | 0h22 |
+| Empacotamento | 65/36 x 60min | 1h48 | 0h54 | 0h54 |
+| Pintura de pacote | 65 em 1h | 1h00 | 1h00 | - |
+| Preparo de rotulo | 65/120 x 60min | 0h33 | 0h33 | - |
+| Selar | 65 x 1min | 1h05 | 1h05 | - |
+| Montar caixas | 26 x 5min | 2h10 | 2h10 | - |
+| Separacao + etiquetas | 26 x 5min | 2h10 | 2h10 | - |
+| **Total** | | **~10h** | **~8h14** | **~1h16** |
 
 ### Papelaria
 | Tarefa | Frequencia | Tempo | Total/semana |
@@ -77,11 +77,12 @@
 | Yorkshire (media) | 0h45 |
 | Pessoal | 12h20 |
 | Compromissos fixos | 8h00 |
-| Cafe | 11h00 |
+| Cafe (Jessica) | 8h14 |
 | Papelaria (base) | 4h30 |
-| **TOTAL** | **~53h00** |
+| **TOTAL JESSICA** | **~50h14** |
 
-Isso equivale a cerca de **7h30 por dia, todos os dias**, so de tarefas (sem contar cuidar da Julia, refeicoes e descanso).
+Isso equivale a cerca de **7h10 por dia, todos os dias**, so de tarefas (sem contar cuidar da Julia, refeicoes e descanso).
+Bruno contribui ~1h16/semana com moagem e empacotamento.
 
 ---
 
@@ -119,7 +120,7 @@ Jessica dorme no quarto da Julia, o que prejudica a qualidade do sono e dificult
 
 ---
 
-### SEGUNDA-FEIRA - Producao Cafe (Dia 1) + Faxina Banheiros
+### SEGUNDA-FEIRA - Producao Cafe (COM BRUNO de manha) + Faxina Banheiros
 
 | Horario | Atividade | Notas |
 |---------|-----------|-------|
@@ -130,23 +131,25 @@ Jessica dorme no quarto da Julia, o que prejudica a qualidade do sono e dificult
 | 7:35-8:10 | **BLOCO TERRACO**: ligar maquina, limpar terraco, cachorros | 35 min - tudo no terraco |
 | 8:10-8:35 | Limpar varanda + estender roupas | Quando maquina terminar |
 | 8:35-9:00 | Cafe da manha com Julia | Tempo de qualidade |
-| 9:00-11:00 | **CAFE: Moer (2h10)** - todos os 65 pacotes | Revezamento com Bruno - Julia |
-| 11:00-12:00 | Tempo com Julia | Bruno trabalha |
+| 9:00-9:22 | **CAFE c/ Bruno: Moer (~22 pacotes, metade cada)** | So 1/3 e moido! |
+| 9:22-10:16 | **CAFE c/ Bruno: Empacotar (metade cada = ~54 min Jessica)** | Bruno faz a outra metade |
+| 10:16-12:00 | **Tempo com Julia (1h44!)** | Manha liberada! |
 | 12:00-13:00 | Almoco em familia | |
 | 13:00-13:30 | Preparar Julia para ir pra avo | |
 | **13:30-18:00** | **BLOCO FOCADO (4h30):** | **Julia com avo** |
 | 13:30-14:30 | Faxina: Banheiros (1h) | Tarefa semanal |
-| 14:30-16:18 | CAFE: Empacotar todos (1h48) | |
-| 16:18-17:23 | CAFE: Selar todos (1h05) | |
-| 17:23-17:53 | Papelaria: metricas + filmes | 30 min |
-| 17:53-18:00 | Buffer | |
+| 14:30-15:35 | CAFE: Selar todos (1h05) | |
+| 15:35-16:35 | CAFE: Pintura pacotes (1h) | |
+| 16:35-17:08 | CAFE: Rotulos (33 min) | |
+| 17:08-17:38 | Papelaria: metricas + filmes | 30 min |
+| 17:38-18:00 | Buffer | |
 | 18:00-20:00 | **Tempo de qualidade com Julia** | Prioridade |
 | 20:00-22:00 | Rotina de sono Julia | |
 | 22:00-22:30 | Descanso / preparar pra dormir | |
 
 ---
 
-### TERCA-FEIRA - Producao Cafe (Dia 2: Acabamento) + Faxina Cozinha
+### TERCA-FEIRA - Cafe (Caixas) + Faxina Cozinha
 
 | Horario | Atividade | Notas |
 |---------|-----------|-------|
@@ -157,14 +160,12 @@ Jessica dorme no quarto da Julia, o que prejudica a qualidade do sono e dificult
 | 7:25-8:00 | **BLOCO TERRACO**: maquina, terraco, cachorros | |
 | 8:00-8:30 | Varanda + estender roupas | |
 | 8:30-9:00 | Cafe com Julia | |
-| 9:00-10:00 | **CAFE: Pintura pacotes (1h)** | Revezamento Bruno |
-| 10:00-10:33 | **CAFE: Rotulos (33 min)** | |
-| 10:33-12:00 | Tempo com Julia (~1h30) | Mais tempo livre! |
+| 9:00-12:00 | **Tempo com Julia (3h!)** | Manha livre de cafe! |
 | 12:00-13:30 | Almoco + preparar Julia | |
 | **13:30-18:00** | **BLOCO FOCADO (4h30):** | **Julia com avo** |
 | 13:30-14:30 | Faxina: Cozinha (1h) | |
 | 14:30-16:40 | CAFE: Montar caixas (26 = 2h10) | |
-| 16:40-18:00 | CAFE: Separacao + etiquetas (26 = inicia 2h10) | Finaliza ~1h30 aqui |
+| 16:40-18:00 | CAFE: Separacao + etiquetas (inicio ~1h20 de 2h10) | |
 | 18:00-20:00 | **Tempo de qualidade com Julia** | |
 | 20:00-22:00 | Rotina de sono Julia | |
 
@@ -181,8 +182,8 @@ Jessica dorme no quarto da Julia, o que prejudica a qualidade do sono e dificult
 | 7:35-8:10 | **BLOCO TERRACO** | |
 | 8:10-8:35 | Varanda + roupas | |
 | 8:35-9:00 | Cafe com Julia | |
-| 9:00-9:40 | **CAFE: Separacao + etiquetas restantes (~40 min)** | Finalizar |
-| 9:40-12:00 | **Tempo com Julia (2h20!)** | DIA COM MAIS TEMPO LIVRE |
+| 9:00-9:50 | **CAFE: Separacao + etiquetas restantes (~50 min)** | Finalizar |
+| 9:50-12:00 | **Tempo com Julia (2h10!)** | Cafe finalizado! |
 | 12:00-13:30 | Almoco | |
 | **13:30-18:00** | **BLOCO FOCADO (4h30):** | **Julia com avo** |
 | 13:30-15:00 | Faxina: Quartos (1h30) | |
@@ -408,25 +409,26 @@ Antes de dormir, deixar pronto para o dia seguinte:
 ## RESUMO VISUAL DA SEMANA
 
 ```
-       SEG      TER      QUA       QUI      SEX      SAB      DOM
-5:15  Acordar  Acordar  Acordar   Acordar  Acordar
-6:15                                                Acordar  Acordar
-       Gym      Gym      Gym       Gym      Gym
-       Devoc    Devoc    Devoc     Devoc    Devoc    Devoc    Devoc
-       Terraco  Terraco  Terraco   Terraco  Terraco  Terraco  Terraco
+       SEG       TER      QUA       QUI      SEX      SAB      DOM
+5:15  Acordar   Acordar  Acordar   Acordar  Acordar
+6:15                                                 Acordar  Acordar
+       Gym       Gym      Gym       Gym      Gym
+       Devoc     Devoc    Devoc     Devoc    Devoc    Devoc    Devoc
+       Terraco   Terraco  Terraco   Terraco  Terraco  Terraco  Terraco
 
-AM    CAFE     CAFE     CAFE(fin) JULIA    Julia    FAMILIA  IGREJA
-      Moer     Pintura  Sep(rest) 3h livre Scrap             8-14h
-               Rotulos  +JULIA
+AM    CAFE+Bruno JULIA   CAFE(fin) JULIA    Julia    FAMILIA  IGREJA
+      Moer+Emp   3h!     Sep(rest) 3h!      Scrap             8-14h
+      +JULIA(1h44)       +JULIA(2h10)
 
-PM    Faxina   Faxina   Faxina    Faxina   Faxina   Livre/   Pedidos
-13:30 Banheir  Cozinh   Quartos   Sala     Escrit   Yorksh   Familia
-      Empacot  Caixas   Papel     ENTREGA  Roupa
-      Selar    Sep+Etiq Scrap     Papel    Unhas
+PM    Faxina    Faxina   Faxina    Faxina   Faxina   Livre/   Pedidos
+13:30 Banheir   Cozinh   Quartos   Sala     Escrit   Yorksh   Familia
+      Selar     Caixas   Papel     ENTREGA  Roupa
+      Pintura   Sep+Etiq Scrap     Papel    Unhas
+      Rotulos
 
-18h   JULIA    JULIA    JULIA     JULIA    JULIA    JULIA    JULIA
-20h   Rotina   Rotina   Rotina    GVC      Rotina   Rotina   Rotina
-22h   Dormir   Dormir   Dormir    Dormir   Dormir   Casal    Dormir
+18h   JULIA     JULIA    JULIA     JULIA    JULIA    JULIA    JULIA
+20h   Rotina    Rotina   Rotina    GVC      Rotina   Rotina   Rotina
+22h   Dormir    Dormir   Dormir    Dormir   Dormir   Casal    Dormir
 ```
 
 ---
@@ -435,14 +437,14 @@ PM    Faxina   Faxina   Faxina    Faxina   Faxina   Livre/   Pedidos
 
 | Dia | Manha (com Julia) | Tarde (18-20h) | Total |
 |-----|-------------------|----------------|-------|
-| Seg | 8:35-9:00 + 11:00-12:00 | 2h | 3h25 |
-| Ter | 8:30-9:00 + 10:33-12:00 | 2h | 3h57 |
-| Qua | 8:35-9:00 + 9:40-12:00 | 2h | **4h45** |
+| Seg | 8:35-9:00 + 10:16-12:00 | 2h | **4h09** |
+| Ter | 8:30-12:00 | 2h | **5h30** |
+| Qua | 8:35-9:00 + 9:50-12:00 | 2h | **4h35** |
 | Qui | 8:30-12:00 | 2h | **5h30** |
 | Sex | 8:35-10:30 | 2h | 3h55 |
 | Sab | 9:00-12:00 + 15:00-18:00 | 2h | 8h |
 | Dom | -- (igreja) | 2h + 14:30-16:00 | 3h30 |
-| **TOTAL SEMANAL** | | | **~33h** |
+| **TOTAL SEMANAL** | | | **~35h09** |
 
 Isso sem contar os momentos durante refeicoes, rotina de sono, e os periodos de revezamento onde Julia esta por perto.
 
