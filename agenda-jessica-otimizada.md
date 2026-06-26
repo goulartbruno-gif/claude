@@ -45,17 +45,21 @@
 | GVC | Quinta | 20h-22h | 2h |
 | **Total** | | | **8h** |
 
-### Cafe (65 pedidos/semana, ~26 caixas, ~1/3 moido, tarefas divididas com Bruno)
+### Cafe (65 pedidos/semana, ~26 caixas, ~1/3 moido)
 | Etapa | Calculo | Total | Jessica | Bruno |
 |-------|---------|-------|---------|-------|
-| Moer (~22 pacotes) | 22 x 2min = 44min | 0h44 | 0h22 | 0h22 |
+| Moer (~22 pacotes) | 22 x 2min = 44min | 0h44 | - | 0h44 |
 | Empacotamento | 65/36 x 60min | 1h48 | 0h54 | 0h54 |
-| Pintura de pacote | 65 em 1h | 1h00 | 1h00 | - |
-| Preparo de rotulo | 65/120 x 60min | 0h33 | 0h33 | - |
+| Pintura de pacote (tarde, longe da Julia) | 65 em 1h | 1h00 | 1h00 | - |
+| Preparo de rotulo | impressao autocolante | ~0h20 | ~0h20 | - |
 | Selar (automatica c/ esteira) | ~15min passagem + ~15min troca data | 0h30 | 0h30 | - |
 | Montar caixas | 26 x 5min | 2h10 | 2h10 | - |
-| Separacao + etiquetas | 26 x 5min | 2h10 | 2h10 | - |
-| **Total** | | **~9h25** | **~7h39** | **~1h16** |
+| Separacao + etiquetas | auto (site) + papel autocolante | ~1h00 | ~1h00 | - |
+| Fechar pedidos | site + conferencia | - | - | Bruno |
+| Entrega | Jessica leva (antes 16h) | ~1h00 | ~1h00 | - |
+| **Total** | | **~8h32** | **~6h54** | **~1h38** |
+
+**Automacao do site:** Pedidos pelo site com geracao automatica de etiquetas (papel autocolante) e notas fiscais. Bruno confere pedidos.
 
 ### Papelaria
 | Tarefa | Frequencia | Tempo | Total/semana |
@@ -78,13 +82,13 @@
 | Cozinhar jantar (com Bruno) | 5h15 |
 | Pessoal | 12h20 |
 | Compromissos fixos | 8h00 |
-| Cafe (Jessica) | 7h39 |
+| Cafe (Jessica) | 6h54 |
 | Papelaria (base) | 4h30 |
-| **TOTAL JESSICA** | **~54h54** |
+| **TOTAL JESSICA** | **~52h09** |
 
-Isso equivale a cerca de **7h50 por dia, todos os dias**, so de tarefas.
+Isso equivale a cerca de **7h27 por dia, todos os dias**, so de tarefas.
 Porem o jantar (45 min/dia) e compartilhado com Bruno e feito com Julia por perto = tempo em familia.
-Bruno contribui ~1h16/semana com moagem e empacotamento + ~5h15 no jantar.
+Bruno contribui ~1h38/semana com moagem (toda) + empacotamento + fecha pedidos + ~5h15 no jantar.
 
 ---
 
@@ -118,20 +122,24 @@ Jessica dorme no quarto da Julia, o que prejudica a qualidade do sono e dificult
 
 1. **Agrupamento por local (terraco)** - todas as tarefas de terraco em um unico bloco
 2. **Maquina de lavar como timer** - iniciar a maquina e fazer outras tarefas enquanto roda
-3. **Torrefacao 1x/semana** - Jessica vai so na quarta (producao). Prova do cafe e feita em casa
-4. **Producao em casa apos torrefacao** (qua PM + qui) → entrega quinta
-5. **Faxina distribuida** - 1 comodo por dia em vez de tudo de uma vez
-6. **Cabelo apos academia** - economiza um banho separado
-7. **Almoco na casa da mae** - transicao natural para Julia ficar com a avo
+3. **Torrefacao 1x/semana** - Jessica vai so na quarta a tarde. Prova do cafe e feita em casa
+4. **Pintura so a tarde** - longe da Julia para nao intoxicar com vapores
+5. **Producao em casa** (qua PM + qui) → entrega quinta antes das 16h
+6. **Site automatiza** - pedidos, etiquetas (autocolante) e notas fiscais. Bruno confere
+7. **Bruno moi todo o cafe** - Jessica nao precisa moer
+8. **Faxina distribuida** - 1 comodo por dia em vez de tudo de uma vez
+9. **Cabelo apos academia** - economiza um banho separado
+10. **Almoco na casa da mae** - transicao natural para Julia ficar com a avo
 
 ### Fluxo semanal do cafe na torrefacao (20 min de carro)
 
 ```
 SEG: Bruno torra na torrefacao (Jessica NAO vai)
-TER: Bruno + Jessica provam o cafe EM CASA
-QUA: Jessica na torrefacao: moer + empacotar + selar (UNICA ida da semana)
-QUA PM + QUI: Em casa: pintura, rotulos, caixas, separacao
-QUI: ENTREGA
+TER: Bruno + Jessica provam o cafe EM CASA. Bruno moi TODOS os cafes na torrefacao
+QUA PM: Jessica na torrefacao: empacotar + selar (UNICA ida). Em casa: pintura + rotulos
+QUI AM: Montar caixas (Julia por perto, sem fumes)
+QUI PM: Separacao + etiquetas (auto/site) → ENTREGA antes das 16h → Quartos
+Bruno: fecha pedidos pelo site + confere lista de producao
 ```
 
 ---
@@ -200,9 +208,10 @@ QUI: ENTREGA
 
 ---
 
-### QUARTA-FEIRA - DIA DA TORREFACAO (tarde) + Faxina Quartos
+### QUARTA-FEIRA - TORREFACAO (tarde) + Pintura + Rotulos
 
-*Manha com Julia. Tarde: torrefacao (moer+empacotar+selar) enquanto Julia fica com avo.*
+*Manha com Julia. Tarde: torrefacao (empacotar+selar) + pintura em casa. Julia fica com avo.*
+*Bruno moi todos os cafes — Jessica so empacota e sela.*
 
 | Horario | Atividade | Notas |
 |---------|-----------|-------|
@@ -220,12 +229,13 @@ QUI: ENTREGA
 | 12:30-13:30 | **Almoco na casa da mae com Julia** | |
 | **13:30-18:00** | **BLOCO FOCADO (4h30):** | **Julia fica com avo** |
 | 13:30-13:50 | Ir para torrefacao (20 min) | |
-| 13:50-14:12 | **Moer (~22 pacotes, metade dela = 22 min)** | Bruno faz outra metade |
-| 14:12-15:06 | **Empacotar (metade dela = 54 min)** | Bruno faz outra metade |
-| 15:06-15:36 | **Selar (seladora automatica = ~30 min)** | Inclui troca de data se necessario |
-| 15:36-15:56 | Voltar pra casa (20 min) | |
-| 15:56-17:26 | Faxina: Quartos (1h30) | |
-| 17:26-18:00 | Metricas + filmes (30 min) | |
+| 13:50-14:44 | **Empacotar (metade dela = 54 min)** | Bruno faz outra metade |
+| 14:44-15:14 | **Selar (seladora automatica = ~30 min)** | Inclui troca de data se necessario |
+| 15:14-15:34 | Voltar pra casa (20 min) | |
+| 15:34-16:34 | **Pintura pacotes (1h)** | Em casa, Julia com avo, sem risco de fumes |
+| 16:34-16:54 | **Rotulos (20 min)** | Impressao autocolante |
+| 16:54-17:24 | Metricas + filmes (30 min) | |
+| 17:24-18:00 | Buffer | |
 | 18:00-18:45 | **Cozinhar jantar (Bruno + Jessica)** | Julia na cozinha junto |
 | 18:45-19:15 | **Jantar em familia** | |
 | 19:15-20:00 | Brincar com Julia | |
@@ -233,9 +243,9 @@ QUI: ENTREGA
 
 ---
 
-### QUINTA-FEIRA - Embalagem final + Entrega + GVC
+### QUINTA-FEIRA - Caixas + Entrega (antes 16h) + Quartos + GVC
 
-*Pintura + rotulos de manha, caixas + separacao + entrega a tarde.*
+*Manha: montar caixas (sem fumes, Julia por perto). Tarde: separar + entregar antes das 16h + quartos.*
 
 | Horario | Atividade | Notas |
 |---------|-----------|-------|
@@ -248,15 +258,16 @@ QUI: ENTREGA
 | 8:40-9:00 | Tempo livre | |
 | **9:00** | **Julia acorda** | |
 | 9:00-9:30 | Cafe da manha com Julia | |
-| 9:30-10:30 | **CAFE em casa: Pintura pacotes (1h)** | Revezamento com Bruno |
-| 10:30-11:03 | **CAFE em casa: Rotulos (33 min)** | |
-| 11:03-12:25 | **Tempo com Julia (~1h22)** | |
+| 9:30-11:40 | **Montar caixas (26 = 2h10)** | Sem fumes, Julia por perto |
+| 11:40-12:25 | **Tempo com Julia (~45 min)** | |
 | 12:28 | Ir para casa da mae (2 min) | |
 | 12:30-13:30 | **Almoco na casa da mae com Julia** | |
 | **13:30-18:00** | **BLOCO FOCADO (4h30):** | **Julia fica com avo** |
-| 13:30-15:40 | CAFE em casa: Montar caixas (26 = 2h10) | |
-| 15:40-17:50 | CAFE em casa: Separacao + etiquetas (26 = 2h10) | |
-| 17:50-18:00 | **ENTREGA / Bruno leva OU agendar retirada** | |
+| 13:30-14:30 | Separacao + etiquetas auto (~1h) | Etiquetas do site, papel autocolante |
+| 14:30-15:30 | **ENTREGA (~1h, Jessica leva)** | **Chegar antes das 16h!** |
+| 15:30-17:00 | Faxina: Quartos (1h30) | |
+| 17:00-17:30 | Metricas + filmes (30 min) | |
+| 17:30-18:00 | Buffer | |
 | 18:00-18:45 | **Cozinhar jantar (Bruno + Jessica)** | Julia na cozinha junto |
 | 18:45-19:15 | **Jantar em familia** | |
 | 19:15-20:00 | Brincar com Julia | |
@@ -317,7 +328,7 @@ QUI: ENTREGA
 
 ---
 
-### DOMINGO - Igreja + Descanso + Pedidos
+### DOMINGO - Igreja + Descanso + Familia
 
 | Horario | Atividade | Notas |
 |---------|-----------|-------|
@@ -325,10 +336,9 @@ QUI: ENTREGA
 | 6:25-7:25 | Devocional | |
 | 7:25-7:55 | BLOCO TERRACO (rapido): maquina, terraco (25min), cachorros (20min) | Simplificado, sem estender |
 | 7:55-8:00 | Sair para igreja | |
-| **8:00-14:00** | **Igreja** | Bruno com Julia |
+| **8:00-14:00** | **Igreja** | Bruno com Julia. Bruno fecha pedidos pelo site |
 | 14:00-14:30 | Almoco | |
-| 14:30-16:00 | **Tempo em familia / descanso** | |
-| 16:00-17:00 | Fechar pedidos da semana (cafe) | Preparar lista |
+| 14:30-17:00 | **Tempo em familia / descanso** | +1h (pedidos agora sao do Bruno) |
 | 17:00-18:00 | Limpar varanda + roupas pendentes | |
 | 18:00-18:45 | **Cozinhar jantar (Bruno + Jessica)** | |
 | 18:45-19:15 | **Jantar em familia** | |
@@ -339,13 +349,12 @@ QUI: ENTREGA
 
 ## O QUE DA PRA AUTOMATIZAR
 
-### 1. Rotulos e Etiquetas - ALTO IMPACTO
-**Atual:** Preparo manual de rotulos (33 min) + colar etiquetas nas 26 caixas (2h10)
-**Solucao:** Impressora de etiquetas termica (Brother QL-820NWB ou similar ~R$400-600)
-- Cria template unico no computador
-- Imprime etiqueta ja com adesivo, cola direto no pacote/caixa
-- **Economia estimada: 1h30-2h/semana**
-- Tambem serve para etiquetas de envio dos Correios
+### 1. Etiquetas e Notas Fiscais - JA AUTOMATIZADO ✓
+**Atual:** Site gera etiquetas e notas fiscais automaticamente. Impressao em papel autocolante.
+- Pedidos entram pelo site → etiquetas + NF geradas automaticamente
+- Impressao em papel autocolante = so imprimir e colar
+- Bruno confere pedidos e lista de producao
+- **Economia ja realizada: ~1h30/semana** (vs. processo manual antigo)
 
 ### 2. Selagem - JA OTIMIZADO ✓
 **Atual:** Seladora automatica com esteira (~30 min/semana incluindo trocas de data)
@@ -366,19 +375,17 @@ QUI: ENTREGA
 - Dashboard automatico que envia email/WhatsApp diario com resumo
 - **Economia: ~10 min/dia = ~50 min/semana**
 
-### 5. Fechamento de Pedidos (Cafe)
-**Solucao:** Formulario Google / sistema simples que totaliza pedidos automaticamente
-- Clientes fazem pedido pelo link
-- Planilha soma automaticamente por produto
-- Gera lista de producao pronta
-- **Economia: ~30 min/semana em organizacao**
+### 5. Fechamento de Pedidos (Cafe) - JA AUTOMATIZADO ✓
+**Atual:** Pedidos entram pelo site automaticamente. Bruno confere e fecha a lista.
+- Jessica nao precisa mais fechar pedidos (era 1h no domingo)
+- **Economia ja realizada: ~1h/semana para Jessica**
 
 ### 6. Lavagem de Roupas
 **Ja esta otimizado** com a maquina. Sugestao adicional:
 - Programar a maquina para terminar no horario que Jessica vai ao terraco
 - Algumas maquinas tem timer de inicio programado
 
-### Total possivel de automacao: **~3-4h/semana** (selagem ja esta otimizada)
+### Total possivel de automacao restante: **~1h50/semana** (etiquetas, selagem e pedidos ja automatizados)
 
 ---
 
@@ -411,9 +418,11 @@ QUI: ENTREGA
 
 A torrefacao fica a 20 min de carro. Jessica vai **1x/semana** (quarta a tarde):
 
-**Quarta PM (UNICA ida da semana):** Julia fica com avo a partir das 13:30. Jessica sai 13:30 → torrefacao (20 min) → moer + empacotar + selar (~1h46) → volta pra casa (20 min) → em casa ~15:56, faz faxina quartos.
+**Quarta PM (UNICA ida da semana):** Julia fica com avo a partir das 13:30. Jessica sai 13:30 → torrefacao (20 min) → empacotar + selar (~1h24, Bruno ja moeu tudo) → volta pra casa (20 min) → em casa ~15:34, faz pintura + rotulos em casa.
 
-**Vantagem:** So 1 ida a torrefacao por semana, sempre a tarde (Julia segura com avo). Mae na mesma rua = zero tempo perdido na transicao almoco/avo.
+**Bruno moi todos os cafes** na torrefacao (segunda ou outro dia). Jessica nao precisa mais moer.
+
+**Vantagem:** So 1 ida a torrefacao por semana, tempo reduzido (sem moer). Julia segura com avo. Mae na mesma rua = zero tempo perdido na transicao.
 
 ---
 
@@ -424,8 +433,8 @@ Jessica ja lava o cabelo 3x/semana em dias alternados. Se fizer academia seg-qua
 
 ### 2. Producao em linha de montagem (cafe)
 Em vez de fazer todas as 65 unidades de cada etapa, organizar em estacoes:
-- Bancada 1: moer + empacotar + selar (fluxo continuo de 5 em 5)
-- Bancada 2: pintura + rotulo
+- Torrefacao: empacotar + selar (fluxo continuo, Bruno ja moeu tudo)
+- Em casa: pintura + rotulo (tarde, longe da Julia)
 - Isso reduz o manuseio repetido dos pacotes
 
 ### 3. Caixas pre-montadas
@@ -475,16 +484,16 @@ Antes de dormir, deixar pronto para o dia seguinte:
        Devoc     Devoc     Devoc        Devoc      Devoc    Devoc    Devoc
        Terraco   Terraco   Terraco      Terraco    Terraco  Terraco  Terraco
 
-AM    JULIA     JULIA     JULIA        Pintura    Julia    FAMILIA  IGREJA
-      3h!       Prova     3h!          Rotulos    Scrap             8-14h
-      (sem cafe) em casa  (sem cafe)   +Julia
+AM    JULIA     JULIA     JULIA        Caixas     Julia    FAMILIA  IGREJA
+      3h!       Prova     3h!          +Julia     Scrap             8-14h
+      (sem cafe) em casa  (sem cafe)   (sem fumes)
 
       ---- almoco na mae 12:30 (2 min a pe) ----
 
-PM    Faxina    Faxina    TORREFACAO   Faxina     Faxina   Livre/   Pedidos
-13:30 Banheir   Cozinha   Moer+Emp     Caixas     Escrit   Yorksh   Familia
-      Papel     Papel     +Selar       Sep+Etiq   Sala
-      Scrap     Scrap     Quartos      ENTREGA    Roupa
+PM    Faxina    Faxina    TORREFACAO   Sep+Etiq   Faxina   Livre/   Familia
+13:30 Banheir   Cozinha   Emp+Selar    ENTREGA    Escrit   Yorksh   (Bruno
+      Papel     Papel     Pintura      <16h!      Sala              fecha
+      Scrap     Scrap     Rotulos      Quartos    Roupa             pedidos)
                                                    Unhas
 
 18h   JANTAR    JANTAR    JANTAR       JANTAR     JANTAR   JANTAR   JANTAR
@@ -504,11 +513,11 @@ PM    Faxina    Faxina    TORREFACAO   Faxina     Faxina   Livre/   Pedidos
 | Seg | 9:00-12:25 (3h25) | 12:30-13:30 (1h) | Jantar+brincar (2h) | **6h25** |
 | Ter | 9:00-12:25 (3h25, prova cafe em casa) | 12:30-13:30 (1h) | Jantar+brincar (2h) | **6h25** |
 | Qua | 9:00-12:25 (3h25) | 12:30-13:30 (1h) | Jantar+brincar (2h) | **6h25** |
-| Qui | 9:00-9:30 + 11:03-12:25 (1h52) | 12:30-13:30 (1h) | Jantar+brincar (2h) | **4h52** |
-| Sex | 9:00-10:30 + 12:00-12:28 (1h58) | 12:30-13:30 (1h) | Jantar+brincar (2h) | **4h58** |
+| Qui | 9:00-9:30 + 11:40-12:25 (1h15) | 12:30-13:30 (1h) | Jantar+brincar (2h) | **4h15** |
+| Sex | 9:00-10:30 + 12:00-12:25 (1h55) | 12:30-13:30 (1h) | Jantar+brincar (2h) | **4h55** |
 | Sab | 9:00-12:00 (3h) + 15:00-18:00 (3h) | almoco (1h) | Jantar+brincar (2h) | **9h** |
-| Dom | -- (igreja) | almoco (30min) | 14:30-16:00 + Jantar+brincar (3h45) | **4h15** |
-| **TOTAL SEMANAL** | | | | **~42h20** |
+| Dom | -- (igreja) | almoco (30min) | 14:30-17:00 + Jantar+brincar (4h45) | **5h15** |
+| **TOTAL SEMANAL** | | | | **~42h45** |
 
 Jantar cozinhando juntos (Bruno+Jessica+Julia na cozinha) tambem e tempo em familia!
 
@@ -519,8 +528,9 @@ Isso sem contar os momentos durante refeicoes, rotina de sono, e os periodos de 
 ## CHECKLIST: PROXIMOS PASSOS
 
 - [ ] Comprar despertador de pulso / smartband para Jessica
-- [ ] Pesquisar impressora de etiquetas termica
+- [x] ~~Pesquisar impressora de etiquetas termica~~ → site gera etiquetas em papel autocolante
 - [ ] Definir horarios fixos de revezamento com Bruno
-- [ ] Criar formulario de pedidos para o cafe
+- [x] ~~Criar formulario de pedidos para o cafe~~ → pedidos pelo site, automatico
 - [ ] Configurar timer da maquina de lavar (se disponivel)
 - [ ] Testar a agenda por 1 semana e ajustar
+- [ ] Garantir estoque de papel autocolante para etiquetas
