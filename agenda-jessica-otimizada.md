@@ -77,14 +77,14 @@
 | Tarefas diarias casa | 8h45 |
 | Faxina semanal | 7h40 |
 | Yorkshire (media) | 0h45 |
-| Cozinhar jantar | 5h15 |
+| Cozinhar jantar (6x, sem quinta) | 4h30 |
 | Pessoal | 12h20 |
 | Compromissos fixos | 8h00 |
 | Cafe (Jessica) | 6h54 |
 | Papelaria (base) | 4h30 |
-| **TOTAL JESSICA** | **~52h09** |
+| **TOTAL JESSICA** | **~51h24** |
 
-Isso equivale a cerca de **7h27 por dia, todos os dias**, so de tarefas.
+Isso equivale a cerca de **7h20 por dia, todos os dias**, so de tarefas.
 O jantar (45 min/dia) e feito com Julia por perto = tempo em familia.
 
 ---
@@ -261,10 +261,7 @@ QUI PM: Separacao + etiquetas (auto/site) → ENTREGA antes das 16h → Quartos
 | 14:30-15:30 | **ENTREGA (~1h, Jessica leva)** | **Chegar antes das 16h!** |
 | 15:30-17:00 | Faxina: Quartos (1h30) | |
 | 17:00-17:30 | Metricas + filmes (30 min) | |
-| 17:30-18:00 | Buffer | |
-| 18:00-18:45 | **Cozinhar jantar** | Julia por perto |
-| 18:45-19:15 | **Jantar em familia** | |
-| 19:15-20:00 | Brincar com Julia | |
+| 17:30-20:00 | **Tempo com Julia (2h30)** | Sem jantar nesse dia |
 | 20:00-22:00 | **GVC** | |
 
 ---
@@ -485,8 +482,8 @@ PM    Faxina    Faxina    TORREFACAO   Sep+Etiq   Faxina   Livre/   Terraco
       Scrap     Scrap     Rotulos      Quartos    Roupa
                                                    Unhas
 
-18h   JANTAR    JANTAR    JANTAR       JANTAR     JANTAR   JANTAR   JANTAR
-      +Julia    +Julia    +Julia       +Julia     +Julia   +Julia   +Julia
+18h   JANTAR    JANTAR    JANTAR       JULIA      JANTAR   JANTAR   JANTAR
+      +Julia    +Julia    +Julia       (s/ janta) +Julia   +Julia   +Julia
 20h   Rotina    Rotina    Rotina       GVC        Rotina   Rotina   Rotina
 22h   Dormir    Dormir    Dormir       Dormir     Dormir   Casal    Dormir
 ```
@@ -502,11 +499,11 @@ PM    Faxina    Faxina    TORREFACAO   Sep+Etiq   Faxina   Livre/   Terraco
 | Seg | 9:00-12:25 (3h25) | 12:30-13:30 (1h) | Jantar+brincar (2h) | **6h25** |
 | Ter | 9:00-12:25 (3h25, prova cafe em casa) | 12:30-13:30 (1h) | Jantar+brincar (2h) | **6h25** |
 | Qua | 9:00-12:25 (3h25) | 12:30-13:30 (1h) | Jantar+brincar (2h) | **6h25** |
-| Qui | 9:00-9:30 + 11:40-12:25 (1h15) | 12:30-13:30 (1h) | Jantar+brincar (2h) | **4h15** |
+| Qui | 9:00-9:30 + 11:40-12:25 (1h15) | 12:30-13:30 (1h) | 17:30-20:00 (2h30, sem jantar) | **4h45** |
 | Sex | 9:00-10:30 + 12:00-12:25 (1h55) | 12:30-13:30 (1h) | Jantar+brincar (2h) | **4h55** |
 | Sab | 9:00-12:00 (3h) + 15:00-18:00 (3h) | almoco (1h) | Jantar+brincar (2h) | **9h** |
 | Dom | -- (igreja) | almoco (30min) | 15:45-18:00 + Jantar+brincar (4h15) | **4h45** |
-| **TOTAL SEMANAL** | | | | **~42h20** |
+| **TOTAL SEMANAL** | | | | **~42h40** |
 
 Jantar cozinhando com Julia na cozinha tambem e tempo em familia!
 
