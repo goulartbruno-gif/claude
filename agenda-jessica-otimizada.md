@@ -75,14 +75,16 @@
 | Tarefas diarias casa | 8h45 |
 | Faxina semanal | 7h40 |
 | Yorkshire (media) | 0h45 |
+| Cozinhar jantar (com Bruno) | 5h15 |
 | Pessoal | 12h20 |
 | Compromissos fixos | 8h00 |
 | Cafe (Jessica) | 8h14 |
 | Papelaria (base) | 4h30 |
-| **TOTAL JESSICA** | **~50h14** |
+| **TOTAL JESSICA** | **~55h29** |
 
-Isso equivale a cerca de **7h10 por dia, todos os dias**, so de tarefas (sem contar cuidar da Julia, refeicoes e descanso).
-Bruno contribui ~1h16/semana com moagem e empacotamento.
+Isso equivale a cerca de **7h55 por dia, todos os dias**, so de tarefas.
+Porem o jantar (45 min/dia) e compartilhado com Bruno e feito com Julia por perto = tempo em familia.
+Bruno contribui ~1h16/semana com moagem e empacotamento + ~5h15 no jantar.
 
 ---
 
@@ -97,7 +99,9 @@ Bruno contribui ~1h16/semana com moagem e empacotamento.
 | Banho (+ cabelo em dias alternados) | 6:05-6:35 | 30 min |
 | Devocional | 6:35-7:35 | 1h |
 | Terraco matinal (roupas + cachorros + limpeza) | 7:35-8:10 | 35 min |
-| Julia acorda / cafe da manha juntas | ~8:00-8:30 | |
+| Limpar varanda | 8:10-8:35 | 25 min |
+| Tempo livre / preparar casa | 8:35-9:00 | 25 min |
+| Julia acorda / cafe da manha juntas | 9:00 | |
 
 Nos dias **sem academia** (sabado e domingo): acordar as **6:15** e ter 1h15 extra de sono.
 
@@ -144,9 +148,11 @@ QUI: ENTREGA
 | 6:35-7:35 | Devocional | |
 | 7:35-8:10 | **BLOCO TERRACO**: ligar maquina, limpar terraco, cachorros | 35 min |
 | 8:10-8:35 | Limpar varanda + estender roupas | |
-| 8:35-9:00 | Cafe da manha com Julia | |
-| 9:00-12:00 | **TEMPO COM JULIA (3h!)** | Sem producao de cafe! |
-| 12:00-12:30 | Ir para casa da mae | |
+| 8:35-9:00 | Tempo livre / preparar casa | Julia ainda dorme |
+| **9:00** | **Julia acorda** | |
+| 9:00-9:30 | Cafe da manha com Julia | |
+| 9:30-12:25 | **TEMPO COM JULIA (2h55)** | Sem producao de cafe! |
+| 12:28 | Ir para casa da mae (2 min a pe) | |
 | 12:30-13:30 | **Almoco na casa da mae com Julia** | |
 | **13:30-18:00** | **BLOCO FOCADO (4h30):** | **Julia fica com avo** |
 | 13:30-14:30 | Faxina: Banheiros (1h) | |
@@ -154,7 +160,9 @@ QUI: ENTREGA
 | 15:30-16:30 | Papelaria: producao de scrapbooks | |
 | 16:30-17:00 | Metricas + filmes | 30 min |
 | 17:00-18:00 | Buffer / adiantar tarefas | |
-| 18:00-20:00 | **Tempo de qualidade com Julia** | Prioridade |
+| 18:00-18:45 | **Cozinhar jantar (Bruno + Jessica)** | Julia na cozinha junto |
+| 18:45-19:15 | **Jantar em familia** | |
+| 19:15-20:00 | Brincar com Julia | Tempo de qualidade |
 | 20:00-22:00 | Rotina de sono Julia | |
 | 22:00-22:30 | Descanso / preparar pra dormir | |
 
@@ -171,10 +179,12 @@ QUI: ENTREGA
 | 6:05-6:25 | Banho (sem cabelo) | |
 | 6:25-7:25 | Devocional | |
 | 7:25-8:00 | **BLOCO TERRACO**: maquina, terraco, cachorros | |
-| 8:00-8:30 | Varanda + estender roupas | |
-| 8:30-9:00 | Cafe com Julia | |
-| 9:00-12:00 | **TEMPO COM JULIA (3h!)** | Manha inteira livre! |
-| 12:00-12:30 | Ir para casa da mae | |
+| 8:00-8:35 | Varanda + estender roupas | |
+| 8:35-9:00 | Tempo livre | Julia ainda dorme |
+| **9:00** | **Julia acorda** | |
+| 9:00-9:30 | Cafe da manha com Julia | |
+| 9:30-12:25 | **TEMPO COM JULIA (2h55)** | Manha inteira livre! |
+| 12:28 | Ir para casa da mae (2 min) | |
 | 12:30-13:30 | **Almoco na casa da mae com Julia** | |
 | 13:30-13:50 | Ir para torrefacao (20 min) | Julia fica com avo |
 | 13:50-14:20 | **Prova do cafe com Bruno (~30 min)** | Avaliar torra de segunda |
@@ -183,7 +193,9 @@ QUI: ENTREGA
 | 15:40-16:40 | Papelaria: design de capas (1h) | 2a sessao da semana |
 | 16:40-17:10 | Metricas + filmes | 30 min |
 | 17:10-18:00 | Papelaria: scrapbooks / buffer | |
-| 18:00-20:00 | **Tempo de qualidade com Julia** | |
+| 18:00-18:45 | **Cozinhar jantar (Bruno + Jessica)** | Julia na cozinha junto |
+| 18:45-19:15 | **Jantar em familia** | |
+| 19:15-20:00 | Brincar com Julia | |
 | 20:00-22:00 | Rotina de sono Julia | |
 
 ---
@@ -191,7 +203,7 @@ QUI: ENTREGA
 ### QUARTA-FEIRA - DIA DA TORREFACAO + Faxina Quartos
 
 *Jessica vai a torrefacao de manha para moer, empacotar e selar. Bruno cuida da Julia.*
-*A tarde: faxina + inicio das tarefas de embalagem em casa.*
+*A tarde: faxina + tarefas de embalagem em casa.*
 
 | Horario | Atividade | Notas |
 |---------|-----------|-------|
@@ -201,13 +213,15 @@ QUI: ENTREGA
 | 6:35-7:35 | Devocional | |
 | 7:35-8:10 | **BLOCO TERRACO** | |
 | 8:10-8:35 | Varanda + roupas | |
-| 8:35-9:00 | Cafe com Julia | |
-| 9:00-9:20 | Ir para torrefacao (20 min) | Bruno fica com Julia |
-| 9:20-9:42 | **Moer (~22 pacotes, metade dela = 22 min)** | Bruno faz a outra metade |
-| 9:42-10:36 | **Empacotar (metade dela = 54 min)** | Bruno faz a outra metade |
+| 8:35-9:00 | Tempo livre | |
+| **9:00** | **Julia acorda** — fica com Bruno | |
+| 9:00-9:20 | Ir para torrefacao (20 min) | Bruno cuida da Julia |
+| 9:20-9:42 | **Moer (~22 pacotes, metade dela = 22 min)** | Bruno faz outra metade |
+| 9:42-10:36 | **Empacotar (metade dela = 54 min)** | Bruno faz outra metade |
 | 10:36-11:41 | **Selar todos (1h05)** | |
-| 11:41-12:01 | Ir para casa da mae (20 min) | Direto da torrefacao |
-| 12:01-12:30 | Chegar, descansar | |
+| 11:41-12:01 | Voltar da torrefacao (20 min) | Direto pra casa |
+| 12:01-12:28 | Descansar / Julia | |
+| 12:28 | Ir para casa da mae (2 min) | |
 | 12:30-13:30 | **Almoco na casa da mae com Julia** | |
 | **13:30-18:00** | **BLOCO FOCADO (4h30):** | **Julia fica com avo** |
 | 13:30-15:00 | Faxina: Quartos (1h30) | |
@@ -215,14 +229,16 @@ QUI: ENTREGA
 | 16:00-16:33 | CAFE em casa: Rotulos (33 min) | |
 | 16:33-17:03 | Metricas + filmes | 30 min |
 | 17:03-18:00 | Buffer / scrapbooks | |
-| 18:00-20:00 | **Tempo de qualidade com Julia** | |
+| 18:00-18:45 | **Cozinhar jantar (Bruno + Jessica)** | Julia na cozinha junto |
+| 18:45-19:15 | **Jantar em familia** | |
+| 19:15-20:00 | Brincar com Julia | |
 | 20:00-22:00 | Rotina de sono Julia | |
 
 ---
 
 ### QUINTA-FEIRA - Embalagem final + Entrega + Faxina Sala + GVC
 
-*Caixas e separacao em casa de manha, entrega a tarde.*
+*Caixas e separacao em casa, entrega a tarde.*
 
 | Horario | Atividade | Notas |
 |---------|-----------|-------|
@@ -231,18 +247,22 @@ QUI: ENTREGA
 | 6:05-6:25 | Banho | |
 | 6:25-7:25 | Devocional | |
 | 7:25-8:00 | **BLOCO TERRACO** | |
-| 8:00-8:30 | Varanda + roupas | |
-| 8:30-9:00 | Cafe com Julia | |
-| 9:00-11:10 | **CAFE em casa: Montar caixas (26 = 2h10)** | Revezamento com Bruno - Julia |
-| 11:10-12:00 | Tempo com Julia (~50 min) | |
-| 12:00-12:30 | Ir para casa da mae | |
+| 8:00-8:35 | Varanda + roupas | |
+| 8:35-9:00 | Tempo livre | |
+| **9:00** | **Julia acorda** | |
+| 9:00-9:30 | Cafe da manha com Julia | |
+| 9:30-11:40 | **CAFE em casa: Montar caixas (26 = 2h10)** | Revezamento com Bruno |
+| 11:40-12:28 | Tempo com Julia (~48 min) | |
+| 12:28 | Ir para casa da mae (2 min) | |
 | 12:30-13:30 | **Almoco na casa da mae com Julia** | |
 | **13:30-18:00** | **BLOCO FOCADO (4h30):** | **Julia fica com avo** |
 | 13:30-15:40 | CAFE em casa: Separacao + etiquetas (26 = 2h10) | |
 | 15:40-16:40 | **ENTREGA DO CAFE** | |
 | 16:40-17:40 | Faxina: Sala (1h) | |
 | 17:40-18:00 | Buffer | |
-| 18:00-20:00 | **Tempo de qualidade com Julia** | |
+| 18:00-18:45 | **Cozinhar jantar (Bruno + Jessica)** | Julia na cozinha junto |
+| 18:45-19:15 | **Jantar em familia** | |
+| 19:15-20:00 | Brincar com Julia | |
 | 20:00-22:00 | **GVC** | Bruno cuida da Julia |
 
 ---
@@ -257,10 +277,13 @@ QUI: ENTREGA
 | 6:35-7:35 | Devocional | |
 | 7:35-8:10 | **BLOCO TERRACO** | |
 | 8:10-8:35 | Varanda + roupas | |
-| 8:35-9:00 | Cafe com Julia | |
-| 9:00-10:30 | **Tempo com Julia / atividades juntas** | Prioridade |
+| 8:35-9:00 | Tempo livre | |
+| **9:00** | **Julia acorda** | |
+| 9:00-9:30 | Cafe da manha com Julia | |
+| 9:30-10:30 | **Tempo com Julia / atividades juntas** | Prioridade |
 | 10:30-12:00 | Papelaria: producao de scrapbooks | Revezamento Bruno |
-| 12:00-12:30 | Ir para casa da mae | |
+| 12:00-12:28 | Tempo com Julia | |
+| 12:28 | Ir para casa da mae (2 min) | |
 | 12:30-13:30 | **Almoco na casa da mae com Julia** | |
 | **13:30-18:00** | **BLOCO FOCADO (4h30):** | **Julia fica com avo** |
 | 13:30-14:30 | Faxina: Escritorio + corredor (1h) | |
@@ -269,7 +292,9 @@ QUI: ENTREGA
 | 16:00-17:00 | Papelaria: scrapbooks | |
 | 17:00-17:30 | Metricas + filmes | |
 | 17:30-18:00 | Buffer | |
-| 18:00-20:00 | **Tempo de qualidade com Julia** | |
+| 18:00-18:45 | **Cozinhar jantar (Bruno + Jessica)** | Julia na cozinha junto |
+| 18:45-19:15 | **Jantar em familia** | |
+| 19:15-20:00 | Brincar com Julia | |
 | 20:00-22:00 | Rotina de sono Julia | |
 
 ---
@@ -280,14 +305,16 @@ QUI: ENTREGA
 |---------|-----------|-------|
 | **6:15** | Acordar (1h a mais de sono!) | Sem academia |
 | 6:25-7:25 | Devocional | |
-| 7:25-8:00 | **BLOCO TERRACO** + limpar terraco profundo (1h) | Aproveitar + faxina semanal |
-| 8:00-8:30 | Varanda + roupas | |
-| 8:30-9:00 | Cafe com Julia | |
+| 7:25-8:30 | **BLOCO TERRACO** + limpar terraco profundo (1h) | Aproveitar + faxina semanal |
+| 8:30-9:00 | Varanda + roupas + tempo livre | |
+| **9:00** | **Julia acorda** | |
 | 9:00-12:00 | **Manha em familia** | Julia + Bruno |
 | 12:00-13:30 | Almoco | Em casa ou na mae |
 | 13:30-15:00 | Yorkshire banho+tosa (quinzenal) OU tempo livre | Julia com avo |
 | 15:00-18:00 | Tempo livre / passeio em familia / scrapbooks | |
-| 18:00-20:00 | **Tempo de qualidade com Julia** | |
+| 18:00-18:45 | **Cozinhar jantar (Bruno + Jessica)** | |
+| 18:45-19:15 | **Jantar em familia** | |
+| 19:15-20:00 | Brincar com Julia | |
 | 20:00-22:00 | Rotina de sono Julia | |
 | 22:00+ | Tempo do casal / descanso | |
 
@@ -306,7 +333,9 @@ QUI: ENTREGA
 | 14:30-16:00 | **Tempo em familia / descanso** | |
 | 16:00-17:00 | Fechar pedidos da semana (cafe) | Preparar lista |
 | 17:00-18:00 | Limpar varanda + roupas pendentes | |
-| 18:00-20:00 | **Tempo de qualidade com Julia** | |
+| 18:00-18:45 | **Cozinhar jantar (Bruno + Jessica)** | |
+| 18:45-19:15 | **Jantar em familia** | |
+| 19:15-20:00 | Brincar com Julia | |
 | 20:00-22:00 | Rotina de sono Julia | |
 
 ---
@@ -387,11 +416,11 @@ QUI: ENTREGA
 
 A torrefacao fica a 20 min de carro. Jessica vai 2x/semana:
 
-**Terca (prova rapida):** Saindo da casa da mae apos almoco → torrefacao (ida direta, sem voltar em casa antes). Tempo fora: ~1h10 (20+30+20). Volta direto pra casa e tem 3h20 de bloco focado.
+**Terca (prova rapida):** Almoco na mae → sai direto pra torrefacao (20 min). Prova ~30 min. Volta pra casa (20 min). Tempo fora: ~1h10. Sobra 3h20 de bloco focado.
 
-**Quarta (producao):** Saindo de casa as 9h → torrefacao → trabalha ~2h21 → vai direto pra casa da mae para almoco. Sem ida e volta desnecessaria.
+**Quarta (producao):** Sai de casa 9h → torrefacao (20 min) → trabalha ~2h21 → volta pra casa (20 min) → chegando ~12:01, descansa, e vai pra mae (2 min a pe) pro almoco 12:30.
 
-**Dica:** Se a casa da mae ficar no caminho entre casa e torrefacao, a rota fica ainda mais eficiente.
+**Vantagem:** Mae na mesma rua = zero tempo perdido na transicao almoco/avo. Jessica sai de casa 12:28, chega na mae 12:30.
 
 ---
 
@@ -457,7 +486,7 @@ AM    JULIA     JULIA     TORREFACAO   Caixas     Julia    FAMILIA  IGREJA
       3h!       3h!       Moer+Emp     +Julia     Scrap             8-14h
       (sem cafe) (sem cafe) +Selar      (50min)
 
-      ---- almoco na casa da mae 12:30 (seg-sex) ----
+      ---- almoco na mae 12:30 (2 min a pe) ----
 
 PM    Faxina    Prova     Faxina       Faxina     Faxina   Livre/   Pedidos
 13:30 Banheir   cafe(ida) Quartos      Sep+Etiq   Escrit   Yorksh   Familia
@@ -465,7 +494,8 @@ PM    Faxina    Prova     Faxina       Faxina     Faxina   Livre/   Pedidos
       Scrap     Papel     Rotulos      Sala       Unhas
                 Scrap                              Scrap
 
-18h   JULIA     JULIA     JULIA        JULIA      JULIA    JULIA    JULIA
+18h   JANTAR    JANTAR    JANTAR       JANTAR     JANTAR   JANTAR   JANTAR
+      +Julia    +Julia    +Julia       +Julia     +Julia   +Julia   +Julia
 20h   Rotina    Rotina    Rotina       GVC        Rotina   Rotina   Rotina
 22h   Dormir    Dormir    Dormir       Dormir     Dormir   Casal    Dormir
 ```
@@ -474,18 +504,20 @@ PM    Faxina    Prova     Faxina       Faxina     Faxina   Livre/   Pedidos
 
 ## TEMPO DE QUALIDADE COM JULIA - GARANTIDO
 
-| Dia | Manha (com Julia) | Almoco (mae) | Tarde (18-20h) | Total |
-|-----|-------------------|-------------|----------------|-------|
-| Seg | 8:35-12:00 (3h25) | 12:30-13:30 | 2h | **6h25** |
-| Ter | 8:30-12:00 (3h30) | 12:30-13:30 | 2h | **6h30** |
-| Qua | 8:35-9:00 (25min) | 12:30-13:30 | 2h | **3h25** |
-| Qui | 8:30-9:00 + 11:10-12:00 (1h20) | 12:30-13:30 | 2h | **4h20** |
-| Sex | 8:35-10:30 (1h55) | 12:30-13:30 | 2h | **4h55** |
-| Sab | 9:00-12:00 (3h) + 15:00-18:00 | almoco | 2h | 8h |
-| Dom | -- (igreja) | almoco | 2h + 14:30-16:00 | 3h30 |
-| **TOTAL SEMANAL** | | | | **~37h05** |
+*Julia acorda as 9h. Almoco na mae (2 min a pe) as 12h30. Jantar juntos 18h-19h15.*
 
-O almoco na casa da mae com Julia (12:30-13:30) conta como tempo de qualidade tambem!
+| Dia | Manha (9h+) | Almoco (mae) | Noite (18-20h) | Total |
+|-----|-------------|-------------|----------------|-------|
+| Seg | 9:00-12:25 (3h25) | 12:30-13:30 (1h) | Jantar+brincar (2h) | **6h25** |
+| Ter | 9:00-12:25 (3h25) | 12:30-13:30 (1h) | Jantar+brincar (2h) | **6h25** |
+| Qua | 12:01-12:28 (27min) | 12:30-13:30 (1h) | Jantar+brincar (2h) | **3h27** |
+| Qui | 9:00-9:30 + 11:40-12:28 (1h18) | 12:30-13:30 (1h) | Jantar+brincar (2h) | **4h18** |
+| Sex | 9:00-10:30 + 12:00-12:28 (1h58) | 12:30-13:30 (1h) | Jantar+brincar (2h) | **4h58** |
+| Sab | 9:00-12:00 (3h) + 15:00-18:00 (3h) | almoco (1h) | Jantar+brincar (2h) | **9h** |
+| Dom | -- (igreja) | almoco (30min) | 14:30-16:00 + Jantar+brincar (3h45) | **4h15** |
+| **TOTAL SEMANAL** | | | | **~38h48** |
+
+Jantar cozinhando juntos (Bruno+Jessica+Julia na cozinha) tambem e tempo em familia!
 
 Isso sem contar os momentos durante refeicoes, rotina de sono, e os periodos de revezamento onde Julia esta por perto.
 
