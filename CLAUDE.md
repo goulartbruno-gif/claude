@@ -17,9 +17,9 @@ Ao ajustar a agenda, respeite TODAS as restricoes abaixo.
 
 1. **Julia acorda as 9h** — nenhuma tarefa com Julia antes disso
 2. **Pintura de pacotes so a tarde** — fumes, Julia nao pode estar perto
-3. **Entrega antes das 16h** — delegada a outra pessoa
-4. **Julia so fica com a avo das 13:30 as 18:00** — nenhuma tarefa que exija ausencia da Jessica fora desse horario (exceto igreja domingo e academia de manha). Na quinta, Jessica busca Julia as 16:30
-5. **Torrefacao** — Jessica NAO vai mais. Envase, selagem, montagem, conferencia, etiquetas e entrega delegados
+3. **Entrega antes das 16h** — Jessica leva (~20 min)
+4. **Julia so fica com a avo das 13:30 as 18:00** — nenhuma tarefa que exija ausencia da Jessica fora desse horario (exceto igreja domingo e academia de manha)
+5. **Torrefacao so 1x/semana (quarta a tarde)** — 20 min de carro. Jessica so empacota e sela (nao moi)
 6. **GVC quinta 20h-22h** — Julia fica com Jessica durante o GVC
 7. **Quinta nao tem jantar**
 8. **Igreja domingo 8h-14h** — sair de casa ate 7:30
@@ -30,8 +30,8 @@ Ao ajustar a agenda, respeite TODAS as restricoes abaixo.
 
 - **Terraco**: limpar terraco, cachorros, maquina de lavar, estender roupas, roupa de cama
 - **Varanda**: limpar varanda (separado do terraco, 10 min)
-- **Torrefacao**: Jessica NAO vai mais (delegado)
-- **Casa**: pintura pacotes, faxina, papelaria
+- **Torrefacao (20 min de carro)**: empacotar, selar. Moagem e feita por outra pessoa
+- **Casa**: pintura pacotes, rotulos, montar caixas, separacao, faxina, papelaria
 
 ## Regras de otimizacao
 
@@ -47,26 +47,27 @@ Ao ajustar a agenda, respeite TODAS as restricoes abaixo.
 |-----|--------|
 | Segunda | Banheiros (1h) |
 | Terca | Cozinha (1h) |
-| Quarta | (pintura pacotes + papelaria) |
+| Quarta | (torrefacao + pintura + rotulos) |
 | Quinta | Quartos (1h30) |
 | Sexta | Escritorio (1h) + Sala (1h) + Roupa de cama (40min) |
 | Sabado | Terraco profundo (1h) + Varanda profunda (30min) |
 
-## Fluxo semanal do cafe (Jessica)
+## Fluxo semanal do cafe
 
 ```
-TER: Prova do cafe em casa (~30 min, Julia por perto)
-QUA PM: Pintura de pacotes em casa (1h, longe da Julia — fumes)
-
-Tudo o mais (envase, moagem, selagem, montagem, conferencia, etiquetas, entrega)
-e feito por outra pessoa. Jessica NAO vai mais na torrefacao.
+SEG: Jessica NAO vai na torrefacao
+TER: Prova do cafe em casa
+QUA PM: Torrefacao (empacotar + selar) → voltar → pintura + rotulos em casa
+QUI AM: Montar caixas (sem fumes, Julia por perto)
+QUI PM: Separacao + etiquetas (auto/site) → ENTREGA antes 16h
 ```
 
-## Automacoes e delegacoes ja implementadas
+## Automacoes ja implementadas
 
+- Seladora automatica com esteira (~30 min/semana)
 - Site gera etiquetas (papel autocolante) e notas fiscais automaticamente
 - Pedidos conferidos automaticamente pelo site
-- Envase, moagem, selagem, montagem, conferencia, etiquetas e entrega: outra pessoa
+- Moagem feita por outra pessoa (Jessica nao moi)
 
 ## Horarios ancora
 

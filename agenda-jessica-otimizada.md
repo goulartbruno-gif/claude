@@ -46,20 +46,18 @@
 | **Total** | | | **8h** |
 
 ### Cafe (65 pedidos/semana, ~26 caixas, ~1/3 moido)
-| Etapa | Quem faz | Tempo Jessica |
-|-------|----------|--------------|
-| Prova do cafe (em casa, terca) | Jessica | 0h30 |
-| Pintura de pacote (quarta tarde, longe da Julia) | Jessica | 1h00 |
-| Empacotamento (envase) | Outra pessoa | -- |
-| Moagem | Outra pessoa | -- |
-| Selagem | Outra pessoa | -- |
-| Montagem de caixas | Outra pessoa | -- |
-| Conferencia + etiquetas | Outra pessoa | -- |
-| Entrega nos correios | Outra pessoa | -- |
-| **Total Jessica** | | **~1h30** |
+| Etapa | Calculo | Tempo Jessica |
+|-------|---------|--------------|
+| Empacotamento (metade) | 65/36 x 60min / 2 | 0h54 |
+| Pintura de pacote (tarde, longe da Julia) | 65 em 1h | 1h00 |
+| Preparo de rotulo (autocolante) | impressao + colar | ~0h20 |
+| Selar (automatica c/ esteira) | ~15min passagem + ~15min troca data | 0h30 |
+| Montar caixas | 26 x 5min | 2h10 |
+| Separacao + etiquetas (auto/site) | papel autocolante | ~1h00 |
+| Entrega (antes 16h) | Jessica leva | ~0h20 |
+| **Total Jessica** | | **~6h14** |
 
 **Automacao do site:** Pedidos pelo site com geracao automatica de etiquetas (papel autocolante) e notas fiscais.
-**Delegado:** Envase, moagem, selagem, montagem, conferencia, etiquetas e entrega sao feitos por outra pessoa. Jessica so faz a prova e a pintura artistica dos pacotes.
 
 ### Papelaria
 | Tarefa | Frequencia | Tempo | Total/semana |
@@ -82,11 +80,11 @@
 | Cozinhar jantar (6x, sem quinta) | 4h30 |
 | Pessoal | 12h20 |
 | Compromissos fixos | 8h00 |
-| Cafe (Jessica) | 1h30 |
+| Cafe (Jessica) | 6h14 |
 | Papelaria (base) | 4h30 |
-| **TOTAL JESSICA** | **~46h00** |
+| **TOTAL JESSICA** | **~50h44** |
 
-Isso equivale a cerca de **6h34 por dia, todos os dias**, so de tarefas — quase **5h a menos por semana** comparado ao modelo anterior (50h44) gracas a delegacao das tarefas de cafe.
+Isso equivale a cerca de **7h15 por dia, todos os dias**, so de tarefas.
 O jantar (45 min/dia) e feito com Julia por perto = tempo em familia.
 
 ---
@@ -121,21 +119,22 @@ Jessica dorme no quarto da Julia, o que prejudica a qualidade do sono e dificult
 
 1. **Agrupamento por local (terraco)** - todas as tarefas de terraco em um unico bloco (inclui estender roupas)
 2. **Maquina de lavar como timer** - iniciar a maquina e fazer outras tarefas enquanto roda
-3. **Cafe delegado** - Jessica so faz prova (ter) e pintura (qua). Nao vai mais na torrefacao
+3. **Torrefacao 1x/semana** - Jessica vai so na quarta a tarde (empacotar + selar)
 4. **Pintura so a tarde** - longe da Julia para nao intoxicar com vapores
-5. **Site automatiza** - pedidos, etiquetas (autocolante) e notas fiscais
-6. **Faxina distribuida** - 1 comodo por dia em vez de tudo de uma vez
-7. **Cabelo apos academia** - economiza um banho separado
-8. **Almoco na casa da mae** - transicao natural para Julia ficar com a avo
+5. **Producao em casa** (qua PM + qui) → entrega quinta antes das 16h
+6. **Site automatiza** - pedidos, etiquetas (autocolante) e notas fiscais
+7. **Faxina distribuida** - 1 comodo por dia em vez de tudo de uma vez
+8. **Cabelo apos academia** - economiza um banho separado
+9. **Almoco na casa da mae** - transicao natural para Julia ficar com a avo
 
-### Fluxo semanal do cafe (Jessica)
+### Fluxo semanal do cafe na torrefacao (20 min de carro)
 
 ```
-TER: Prova do cafe em casa (~30 min, Julia por perto)
-QUA PM: Pintura de pacotes em casa (1h, longe da Julia — fumes)
-
-Tudo o mais (envase, moagem, selagem, montagem, conferencia, etiquetas, entrega)
-e feito por outra pessoa. Jessica NAO vai mais na torrefacao.
+SEG: Jessica NAO vai na torrefacao
+TER: Prova do cafe em casa
+QUA PM: Jessica na torrefacao: empacotar + selar (UNICA ida). Em casa: pintura + rotulos
+QUI AM: Montar caixas (Julia por perto, sem fumes)
+QUI PM: Separacao + etiquetas (auto/site) → ENTREGA antes das 16h → Quartos
 ```
 
 ---
@@ -204,9 +203,9 @@ e feito por outra pessoa. Jessica NAO vai mais na torrefacao.
 
 ---
 
-### QUARTA-FEIRA - Pintura (tarde) + Papelaria
+### QUARTA-FEIRA - TORREFACAO (tarde) + Pintura + Rotulos
 
-*Manha com Julia. Tarde: pintura de pacotes + papelaria. Julia fica com avo.*
+*Manha com Julia. Tarde: torrefacao (empacotar+selar) + pintura em casa. Julia fica com avo.*
 
 | Horario | Atividade | Notas |
 |---------|-----------|-------|
@@ -223,11 +222,14 @@ e feito por outra pessoa. Jessica NAO vai mais na torrefacao.
 | 12:28 | Ir para casa da mae (2 min) | |
 | 12:30-13:30 | **Almoco na casa da mae com Julia** | |
 | **13:30-18:00** | **BLOCO FOCADO (4h30):** | **Julia fica com avo** |
-| 13:30-14:30 | **Pintura pacotes (1h)** | Em casa, Julia com avo, sem risco de fumes |
-| 14:30-15:30 | Papelaria: producao de scrapbooks | |
-| 15:30-16:30 | Papelaria: producao de scrapbooks | |
-| 16:30-17:00 | Metricas + filmes (30 min) | |
-| 17:00-18:00 | Buffer / adiantar tarefas | |
+| 13:30-13:50 | Ir para torrefacao (20 min) | |
+| 13:50-14:44 | **Empacotar (54 min)** | Metade dela |
+| 14:44-15:14 | **Selar (seladora automatica = ~30 min)** | Inclui troca de data |
+| 15:14-15:34 | Voltar pra casa (20 min) | |
+| 15:34-16:34 | **Pintura pacotes (1h)** | Em casa, Julia com avo, sem risco de fumes |
+| 16:34-16:54 | **Rotulos (20 min)** | Impressao autocolante |
+| 16:54-17:24 | Metricas + filmes (30 min) | |
+| 17:24-18:00 | Buffer | |
 | 18:00-18:45 | **Cozinhar jantar** | Julia por perto |
 | 18:45-19:15 | **Jantar em familia** | |
 | 19:15-20:00 | Brincar com Julia | |
@@ -235,9 +237,9 @@ e feito por outra pessoa. Jessica NAO vai mais na torrefacao.
 
 ---
 
-### QUINTA-FEIRA - Julia (manha) + Quartos + GVC
+### QUINTA-FEIRA - Caixas + Entrega (antes 16h) + Quartos + GVC
 
-*Manha inteira com Julia! Tarde: faxina quartos + Julia mais cedo. Sem jantar.*
+*Manha: montar caixas (sem fumes, Julia por perto). Tarde: separar + entregar antes das 16h + quartos.*
 
 | Horario | Atividade | Notas |
 |---------|-----------|-------|
@@ -250,14 +252,16 @@ e feito por outra pessoa. Jessica NAO vai mais na torrefacao.
 | 8:40-9:00 | Tempo livre | |
 | **9:00** | **Julia acorda** | |
 | 9:00-9:30 | Cafe da manha com Julia | |
-| 9:30-12:25 | **TEMPO COM JULIA (2h55)** | Manha inteira! Sem cafe! |
+| 9:30-11:40 | **Montar caixas (26 = 2h10)** | Sem fumes, Julia por perto |
+| 11:40-12:25 | **Tempo com Julia (~45 min)** | |
 | 12:28 | Ir para casa da mae (2 min) | |
 | 12:30-13:30 | **Almoco na casa da mae com Julia** | |
-| **13:30-16:30** | **BLOCO FOCADO (3h):** | **Julia fica com avo** |
-| 13:30-15:00 | Faxina: Quartos (1h30) | |
-| 15:00-15:30 | Metricas + filmes (30 min) | |
-| 15:30-16:30 | Papelaria / Buffer | |
-| 16:30-20:00 | **Tempo com Julia (3h30)** | Buscar Julia mais cedo! Sem jantar |
+| **13:30-18:00** | **BLOCO FOCADO (4h30):** | **Julia fica com avo** |
+| 13:30-14:30 | Separacao + etiquetas auto (~1h) | Etiquetas do site, papel autocolante |
+| 14:30-14:50 | **ENTREGA (~20 min)** | **Antes das 16h** |
+| 14:50-16:20 | Faxina: Quartos (1h30) | |
+| 16:20-16:50 | Metricas + filmes (30 min) | |
+| 16:50-20:00 | **Tempo com Julia (3h10)** | Sem jantar nesse dia |
 | 20:00-22:00 | **GVC** | Julia junto |
 
 ---
@@ -343,11 +347,17 @@ e feito por outra pessoa. Jessica NAO vai mais na torrefacao.
 - Pedidos conferidos e lista de producao gerada automaticamente
 - **Economia ja realizada: ~1h30/semana** (vs. processo manual antigo)
 
-### 2. Selagem - DELEGADO ✓
-**Atual:** Feito por outra pessoa. Jessica nao faz mais.
+### 2. Selagem - JA OTIMIZADO ✓
+**Atual:** Seladora automatica com esteira (~30 min/semana incluindo trocas de data)
+- Jessica ja usa seladora continua de esteira
+- Tempo atual ja e otimo, sem necessidade de investimento adicional
 
-### 3. Moagem - DELEGADO ✓
-**Atual:** Feito por outra pessoa. Jessica nao faz mais.
+### 3. Moagem - MEDIO IMPACTO
+**Atual:** 2 min por pacote = 2h10/semana
+**Solucao:** Moedor comercial com dosador (moedor de cafe profissional com timer)
+- Moe direto na quantidade certa, sem pesar separado
+- Pode reduzir para ~45 seg por pacote
+- **Economia: ~1h/semana**
 
 ### 4. Metricas Papelaria - BAIXO IMPACTO (mas constante)
 **Atual:** 20 min/dia checando plataforma
@@ -356,16 +366,17 @@ e feito por outra pessoa. Jessica NAO vai mais na torrefacao.
 - Dashboard automatico que envia email/WhatsApp diario com resumo
 - **Economia: ~10 min/dia = ~50 min/semana**
 
-### 5. Fechamento, Montagem, Conferencia, Entrega - DELEGADO ✓
-**Atual:** Tudo feito por outra pessoa. Jessica so faz prova do cafe (30min/semana) e pintura de pacotes (1h/semana).
-- **Economia realizada: ~4h44/semana** (de 6h14 para 1h30)
+### 5. Fechamento de Pedidos (Cafe) - JA AUTOMATIZADO ✓
+**Atual:** Pedidos entram pelo site automaticamente. Conferencia e fechamento automatizados.
+- Jessica nao precisa mais fechar pedidos (era 1h no domingo)
+- **Economia ja realizada: ~1h/semana**
 
 ### 6. Lavagem de Roupas
 **Ja esta otimizado** com a maquina. Sugestao adicional:
 - Programar a maquina para terminar no horario que Jessica vai ao terraco
 - Algumas maquinas tem timer de inicio programado
 
-### Total possivel de automacao restante: **~50 min/semana** (metricas papelaria + timer maquina de lavar)
+### Total possivel de automacao restante: **~1h50/semana** (etiquetas, selagem e pedidos ja automatizados)
 
 ---
 
@@ -397,11 +408,13 @@ e feito por outra pessoa. Jessica NAO vai mais na torrefacao.
 - Limpeza profunda do terraco
 - Tudo em sequencia sem descer entre tarefas
 
-### Torrefacao - DELEGADA
+### Rota Torrefacao - otimizar deslocamento
 
-Jessica **nao vai mais na torrefacao**. Envase, moagem, selagem, montagem, conferencia, etiquetas e entrega sao feitos por outra pessoa. Jessica fica em casa e faz apenas:
-- **Terca:** Prova do cafe (30 min, em casa, Julia por perto)
-- **Quarta PM:** Pintura de pacotes (1h, em casa, Julia com avo — fumes)
+A torrefacao fica a 20 min de carro. Jessica vai **1x/semana** (quarta a tarde):
+
+**Quarta PM (UNICA ida da semana):** Julia fica com avo a partir das 13:30. Jessica sai 13:30 → torrefacao (20 min) → empacotar + selar (~1h24) → volta pra casa (20 min) → em casa ~15:34, faz pintura + rotulos em casa.
+
+**Vantagem:** So 1 ida a torrefacao por semana. Jessica nao moi cafe (tempo reduzido). Julia segura com avo. Mae na mesma rua = zero tempo na transicao.
 
 ---
 
@@ -410,13 +423,16 @@ Jessica **nao vai mais na torrefacao**. Envase, moagem, selagem, montagem, confe
 ### 1. Combinar banho com academia
 Jessica ja lava o cabelo 3x/semana em dias alternados. Se fizer academia seg-qua-sex e lavar cabelo nesses mesmos dias, o banho pos-academia ja inclui o cabelo. **Economia: 3 deslocamentos ate o banheiro e 3 "preparacoes" por semana.**
 
-### 2. Quarta e quinta livres para papelaria
-Com a delegacao do cafe, quarta e quinta ganharam horas livres. O tempo extra foi redistribuido para:
-- Mais producao de scrapbooks (quarta tarde)
-- Mais tempo com Julia (quinta manha inteira + tarde a partir das 16:30)
-- Papelaria/buffer na quinta tarde
+### 2. Producao em linha de montagem (cafe)
+Em vez de fazer todas as 65 unidades de cada etapa, organizar em estacoes:
+- Torrefacao: empacotar + selar (fluxo continuo)
+- Em casa: pintura + rotulo (tarde, longe da Julia)
+- Isso reduz o manuseio repetido dos pacotes
 
-### 3. Devocional flexivel
+### 3. Caixas pre-montadas
+Montar as 26 caixas de uma vez so e armazenar. Quando chegar no dia de embalar, so colocar dentro. **Fazer na frente da TV ou enquanto ouve podcast = nao "pesa" tanto.**
+
+### 4. Devocional flexivel
 Se 1h por dia esta dificil de encaixar, considerar:
 - 45 min nos dias mais pesados (seg-qui)
 - 1h15 nos finais de semana
@@ -454,17 +470,17 @@ Antes de dormir, deixar pronto para o dia seguinte:
        Devoc     Devoc     Devoc        Devoc      Devoc    Devoc    Devoc
        Terraco   Terraco   Terraco      Terraco    Terraco  Terraco  Terraco
 
-AM    JULIA     JULIA     JULIA        JULIA      Julia    FAMILIA  IGREJA
-      3h!       Prova     3h!          3h!        Scrap             8-14h
-      (sem cafe) em casa  (sem cafe)   (sem cafe!)
+AM    JULIA     JULIA     JULIA        Caixas     Julia    FAMILIA  IGREJA
+      3h!       Prova     3h!          +Julia     Scrap             8-14h
+      (sem cafe) em casa  (sem cafe)   (sem fumes)
 
       ---- almoco na mae 12:30 (2 min a pe) ----
 
-PM    Faxina    Faxina    Pintura      Faxina     Faxina   Livre/   Terraco
-13:30 Banheir   Cozinha   Scrap        Quartos    Escrit   Yorksh   Familia
-      Papel     Papel     Scrap        Metrica    Sala
-      Scrap     Scrap     Buffer       Papel/Buf  Roupa
-                                       JULIA16:30 Unhas
+PM    Faxina    Faxina    TORREFACAO   Sep+Etiq   Faxina   Livre/   Terraco
+13:30 Banheir   Cozinha   Emp+Selar    ENTREGA    Escrit   Yorksh   Familia
+      Papel     Papel     Pintura      <16h!      Sala
+      Scrap     Scrap     Rotulos      Quartos    Roupa
+                                                   Unhas
 
 18h   JANTAR    JANTAR    JANTAR       JULIA      JANTAR   JANTAR   JANTAR
       +Julia    +Julia    +Julia       (s/ janta) +Julia   +Julia   +Julia
@@ -483,11 +499,11 @@ PM    Faxina    Faxina    Pintura      Faxina     Faxina   Livre/   Terraco
 | Seg | 9:00-12:25 (3h25) | 12:30-13:30 (1h) | Jantar+brincar (2h) | **6h25** |
 | Ter | 9:00-12:25 (3h25, prova cafe em casa) | 12:30-13:30 (1h) | Jantar+brincar (2h) | **6h25** |
 | Qua | 9:00-12:25 (3h25) | 12:30-13:30 (1h) | Jantar+brincar (2h) | **6h25** |
-| Qui | 9:00-12:25 (3h25) | 12:30-13:30 (1h) | 16:30-22:00 (5h30, sem jantar + GVC) | **9h55** |
+| Qui | 9:00-9:30 + 11:40-12:25 (1h15) | 12:30-13:30 (1h) | 16:50-22:00 (5h10, sem jantar + GVC) | **7h25** |
 | Sex | 9:00-10:30 + 12:00-12:25 (1h55) | 12:30-13:30 (1h) | Jantar+brincar (2h) | **4h55** |
 | Sab | 9:00-12:00 (3h) + 15:00-18:00 (3h) | almoco (1h) | Jantar+brincar (2h) | **9h** |
 | Dom | -- (igreja) | almoco (30min) | 15:45-18:00 + Jantar+brincar (4h15) | **4h45** |
-| **TOTAL SEMANAL** | | | | **~47h50** |
+| **TOTAL SEMANAL** | | | | **~45h20** |
 
 Jantar cozinhando com Julia na cozinha tambem e tempo em familia!
 
