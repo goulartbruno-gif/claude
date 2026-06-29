@@ -15,40 +15,48 @@ document.addEventListener('DOMContentLoaded', () => {
       document.querySelectorAll('.faq__item.active').forEach(open => {
         open.classList.remove('active');
         open.querySelector('.faq__answer').style.maxHeight = null;
+        open.querySelector('.faq__question').setAttribute('aria-expanded', 'false');
       });
 
       if (!isActive) {
         item.classList.add('active');
         answer.style.maxHeight = answer.scrollHeight + 'px';
+        btn.setAttribute('aria-expanded', 'true');
       }
     });
   });
 
   const nav = document.getElementById('nav');
-  let lastScroll = 0;
   window.addEventListener('scroll', () => {
-    const cur = window.scrollY;
-    nav.style.background = cur > 80
+    nav.style.background = window.scrollY > 80
       ? 'rgba(26,26,26,.98)'
       : 'rgba(26,26,26,.95)';
-    lastScroll = cur;
   }, { passive: true });
 
-  const observer = new IntersectionObserver(entries => {
-    entries.forEach(e => {
-      if (e.isIntersecting) {
-        e.target.style.opacity = '1';
-        e.target.style.transform = 'translateY(0)';
-      }
-    });
-  }, { threshold: 0.1 });
-
-  document.querySelectorAll(
+  // Scroll reveal — apenas como aprimoramento. Se o usuário pede menos
+  // movimento ou o navegador não suporta IntersectionObserver, o conteúdo
+  // permanece visível (nunca escondemos nada que dependa de JS para reaparecer).
+  const prefersReduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const revealEls = document.querySelectorAll(
     '.mulher__card, .produto__card, .diferencial__item, .b2b__feature, .faq__item'
-  ).forEach(el => {
-    el.style.opacity = '0';
-    el.style.transform = 'translateY(20px)';
-    el.style.transition = 'opacity .6s ease, transform .6s ease';
-    observer.observe(el);
-  });
+  );
+
+  if (!prefersReduced && 'IntersectionObserver' in window) {
+    const observer = new IntersectionObserver(entries => {
+      entries.forEach(e => {
+        if (e.isIntersecting) {
+          e.target.style.opacity = '1';
+          e.target.style.transform = 'translateY(0)';
+          observer.unobserve(e.target);
+        }
+      });
+    }, { threshold: 0.1 });
+
+    revealEls.forEach(el => {
+      el.style.opacity = '0';
+      el.style.transform = 'translateY(20px)';
+      el.style.transition = 'opacity .6s ease, transform .6s ease';
+      observer.observe(el);
+    });
+  }
 });

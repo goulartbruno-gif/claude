@@ -58,7 +58,8 @@ a:hover { color: var(--dourado-claro); }
 
 /* ── HERO ── */
 .hero {
-  min-height: 100vh; display: flex; align-items: center; justify-content: center;
+  min-height: 100vh; min-height: 100svh;
+  display: flex; align-items: center; justify-content: center;
   background: var(--preto); position: relative; overflow: hidden; text-align: center;
 }
 .hero::before {
@@ -338,10 +339,26 @@ section { padding: 6rem 0; }
   .nav__links { display: none; flex-direction: column; position: absolute; top: 100%; left: 0; right: 0; background: var(--preto); padding: 1.5rem; gap: 1rem; border-top: 1px solid rgba(200,169,110,.1); }
   .nav__links.active { display: flex; }
   .nav__toggle { display: block; }
-  .mulheres__grid { grid-template-columns: 1fr; }
-  .diferencial__grid { grid-template-columns: 1fr; }
   .sobre__content { grid-template-columns: 1fr; }
   .contato__grid { grid-template-columns: 1fr; }
-  .produtos__grid { grid-template-columns: 1fr; }
+  /* nível intermediário: 2 colunas em tablets e celular landscape */
+  .mulheres__grid { grid-template-columns: repeat(2, 1fr); }
+  .diferencial__grid { grid-template-columns: repeat(2, 1fr); }
+  .produtos__grid { grid-template-columns: repeat(2, 1fr); }
   section { padding: 4rem 0; }
+}
+
+@media (max-width: 520px) {
+  /* celular retrato: coluna única */
+  .mulheres__grid { grid-template-columns: 1fr; }
+  .diferencial__grid { grid-template-columns: 1fr; }
+  .produtos__grid { grid-template-columns: 1fr; }
+}
+
+/* respeita usuários que pedem menos movimento */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: .01ms !important; animation-iteration-count: 1 !important;
+    transition-duration: .01ms !important; scroll-behavior: auto !important;
+  }
 }
