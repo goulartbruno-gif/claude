@@ -217,14 +217,14 @@ Microtorrefação de cafés especiais. Fundadores: Bruno Goulart e Jéssica. ~60
 
 | Arquivo | Função |
 |---------|--------|
-| `src/site/index.html` | Site completo — 11 seções, 499 linhas |
-| `src/site/style.css` | Design system preto/dourado/creme, responsivo, 347 linhas |
-| `src/site/app.js` | Menu mobile, FAQ accordion, scroll animations, 54 linhas |
-| `docs/Andromeda_Precificacao_B2B_Cafeteria.md` | Tabela de preços B2B — 4 grupos por volume, margens auditadas |
-| `docs/Andromeda_Orcamento_B2B.pdf` | PDF de orçamento gerado pelo script |
-| `docs/Guia_Integracao_Frenet_MelhorEnvio_Shopify.md` | Guia 8 passos para configurar frete no checkout |
-| `docs/Andromeda_Brainstorm_Automacao_Marketing_Site.md` | Brainstorm consolidado: automação, marketing, site, auditoria |
-| `scripts/gerar_orcamento_b2b.py` | Gerador de PDF de orçamento B2B (ReportLab) |
+| `andromeda/site/index.html` | Site completo — 11 seções, 499 linhas |
+| `andromeda/site/style.css` | Design system preto/dourado/creme, responsivo, 347 linhas |
+| `andromeda/site/app.js` | Menu mobile, FAQ accordion, scroll animations, 54 linhas |
+| `andromeda/docs/Andromeda_Precificacao_B2B_Cafeteria.md` | Tabela de preços B2B — 4 grupos por volume, margens auditadas |
+| `andromeda/docs/Andromeda_Orcamento_B2B.pdf` | PDF de orçamento gerado pelo script |
+| `andromeda/docs/Guia_Integracao_Frenet_MelhorEnvio_Shopify.md` | Guia 8 passos para configurar frete no checkout |
+| `andromeda/docs/Andromeda_Brainstorm_Automacao_Marketing_Site.md` | Brainstorm consolidado: automação, marketing, site, auditoria |
+| `andromeda/scripts/gerar_orcamento_b2b.py` | Gerador de PDF de orçamento B2B (ReportLab) |
 
 ### Design system do site
 
