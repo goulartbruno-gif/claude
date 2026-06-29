@@ -1,0 +1,11 @@
+[project]
+name = "andromeda"
+version = "0.1.0"
+description = "Andrômeda Coffee Co. — site, docs e geração de orçamento B2B"
+requires-python = ">=3.13"
+dependencies = [
+    "reportlab>=4,<6",
+]
+
+[tool.uv]
+package = false

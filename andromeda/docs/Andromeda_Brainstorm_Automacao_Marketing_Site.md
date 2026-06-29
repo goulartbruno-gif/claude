@@ -95,9 +95,9 @@
 
 | Arquivo | Localização | Linhas |
 |---------|------------|--------|
-| index.html | src/site/index.html | 499 |
-| style.css | src/site/style.css | 347 |
-| app.js | src/site/app.js | 54 |
+| index.html | andromeda/site/index.html | 499 |
+| style.css | andromeda/site/style.css | 347 |
+| app.js | andromeda/site/app.js | 54 |
 
 ### Seções (11 blocos)
 
