@@ -178,3 +178,74 @@ npx ruflo@latest doctor --fix
 > by default; `--ttl 0` to disable, `daemon status --all` to audit running daemons).
 
 **Agent tool** handles execution (agents, files, code, git). **MCP tools** handle coordination (swarm, memory, hooks). **CLI** is the same via Bash.
+
+## Andrômeda Coffee Co.
+
+Microtorrefação de cafés especiais. Fundadores: Bruno Goulart e Jéssica. ~60 clientes B2C, meta R$30k/mês em 12 meses. Founder Led Growth, 100% orgânico.
+
+### Regras de privacidade e compliance (INEGOCIÁVEIS)
+
+- Filha referida só como "minha/nossa filha" — nome NUNCA em material público
+- Vida pessoal da família NÃO é conteúdo
+- Identidade médica discreta — método sim, título não (CFM inegociável)
+- Notas sensoriais só de cupping conjunto Bruno + Jéssica — NUNCA inventadas
+- Produtor como colaborador, não fornecedor — não negociamos preço de saca
+- "Região Vulcânica, São Paulo" — NUNCA "interior"
+- Crescimento 100% orgânico / zero Ads — proibido por princípio
+- Rótulo físico manda mais que qualquer documento — em caso de conflito, rótulo vence
+- Markup 5x inegociável (preço venda = 5× custo/kg rendimento útil)
+
+### Produtos
+
+| Café | Posição | Gramatura | Preço |
+|------|---------|-----------|-------|
+| Dona Néia | Entrada | 250g | R$45 |
+| Vésper | Intermediário | 250g | R$65 |
+| Nocturne | Intermediário | 250g | R$65 |
+| Jujubs | Raridade / microlote | 250g | R$130 |
+| Zora (Laurina) | Off-catalog / peça rara proposital | 150g | R$90 |
+
+### Stack técnico
+
+- **Shopify** (produtos em DRAFT) → **Bling** (NF-e) → **Melhor Envio + Frenet** (frete) → **Pagar.me** (pagamento, KYC pendente)
+- Frenet = bridge que puxa cotações do Melhor Envio pro checkout da Shopify
+- Shopify Flow: pedido pago → tag, entregue → e-mail, estoque total produto < 3 → alerta de torra
+- Estoque configurado: 10 unidades/variante (5 produtos × 4 moagens = 20 variantes)
+- Cropster: perfis de torra
+
+### Arquivos do repo
+
+| Arquivo | Função |
+|---------|--------|
+| `src/site/index.html` | Site completo — 11 seções, 499 linhas |
+| `src/site/style.css` | Design system preto/dourado/creme, responsivo, 347 linhas |
+| `src/site/app.js` | Menu mobile, FAQ accordion, scroll animations, 54 linhas |
+| `docs/Andromeda_Precificacao_B2B_Cafeteria.md` | Tabela de preços B2B — 4 grupos por volume, margens auditadas |
+| `docs/Andromeda_Orcamento_B2B.pdf` | PDF de orçamento gerado pelo script |
+| `docs/Guia_Integracao_Frenet_MelhorEnvio_Shopify.md` | Guia 8 passos para configurar frete no checkout |
+| `docs/Andromeda_Brainstorm_Automacao_Marketing_Site.md` | Brainstorm consolidado: automação, marketing, site, auditoria |
+| `scripts/gerar_orcamento_b2b.py` | Gerador de PDF de orçamento B2B (ReportLab) |
+
+### Design system do site
+
+| Token | Valor | Uso |
+|-------|-------|-----|
+| --preto | #1A1A1A | Hero, seções escuras, footer |
+| --dourado | #C8A96E | Destaques, títulos, CTAs |
+| --creme | #FDF8F0 | Background principal |
+| --cinza-claro | #F5F0E8 | Seções alternadas |
+| --font-heading | Cormorant Garamond | Títulos |
+| --font-body | Inter | Corpo |
+
+### Google Drive
+
+- Pasta Andrômeda: `1ytf3VjXqBbPc-bTS-aIncomxWXAeP_0v`
+- Documentos-chave: Plano Estratégico, Consolidação de Contexto, sessões (11/06, 16/06, 19/06), Pedidos, Calendário Julho
+
+### Pendências estacionadas
+
+- Reposicionamento de marca — parked, revisitar depois
+- Conteúdo congelado desde 21/06 — nova rota a definir
+- Pagar.me KYC — Bruno precisa enviar documentos
+- WhatsApp Business Catalog — a montar quando Bruno pedir
+- Planilhas COUNTIF — a montar conforme Bruno pedir tabelas
