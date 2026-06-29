@@ -224,6 +224,7 @@ Microtorrefação de cafés especiais. Fundadores: Bruno Goulart e Jéssica. ~60
 | `andromeda/docs/Andromeda_Orcamento_B2B.pdf` | PDF de orçamento gerado pelo script |
 | `andromeda/docs/Guia_Integracao_Frenet_MelhorEnvio_Shopify.md` | Guia 8 passos para configurar frete no checkout |
 | `andromeda/docs/Andromeda_Brainstorm_Automacao_Marketing_Site.md` | Brainstorm consolidado: automação, marketing, site, auditoria |
+| `andromeda/docs/Andromeda_Respostas_Rapidas_WhatsApp.md` | Roteiro de respostas rápidas do WhatsApp Business — ciclo de venda + SAC, com guardrails de marca |
 | `andromeda/scripts/gerar_orcamento_b2b.py` | Gerador de PDF de orçamento B2B (ReportLab) |
 | `andromeda/pyproject.toml` | Projeto uv da Andrômeda — isolado do notebooklm-assistant (dep: reportlab) |
 | `andromeda/uv.lock` | Lockfile do ambiente da Andrômeda (reprodutível com `uv sync`) |
