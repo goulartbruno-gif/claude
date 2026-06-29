@@ -225,6 +225,20 @@ Microtorrefação de cafés especiais. Fundadores: Bruno Goulart e Jéssica. ~60
 | `andromeda/docs/Guia_Integracao_Frenet_MelhorEnvio_Shopify.md` | Guia 8 passos para configurar frete no checkout |
 | `andromeda/docs/Andromeda_Brainstorm_Automacao_Marketing_Site.md` | Brainstorm consolidado: automação, marketing, site, auditoria |
 | `andromeda/scripts/gerar_orcamento_b2b.py` | Gerador de PDF de orçamento B2B (ReportLab) |
+| `andromeda/pyproject.toml` | Projeto uv da Andrômeda — isolado do notebooklm-assistant (dep: reportlab) |
+| `andromeda/uv.lock` | Lockfile do ambiente da Andrômeda (reprodutível com `uv sync`) |
+
+### Ambiente Python da Andrômeda
+
+`andromeda/` é um projeto **uv próprio**, isolado do `notebooklm-assistant` da raiz.
+Rode os scripts sempre de dentro de `andromeda/` com `uv run` — ele resolve o venv
+isolado sozinho, sem ativar nada manualmente:
+
+```bash
+cd andromeda
+uv sync                              # recria .venv + deps a partir do uv.lock
+uv run scripts/gerar_orcamento_b2b.py  # gera andromeda/docs/Andromeda_Orcamento_B2B.pdf
+```
 
 ### Design system do site
 
