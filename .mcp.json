@@ -4,6 +4,14 @@
       "command": "uv",
       "args": ["run", "python", "server.py"],
       "cwd": "${CLAUDE_PLUGIN_ROOT}"
+    },
+    "obsidian-dispatch": {
+      "command": "uv",
+      "args": ["run", "python", "server.py"],
+      "cwd": "${CLAUDE_PLUGIN_ROOT}/obsidian-dispatch-mcp",
+      "env": {
+        "OBSIDIAN_VAULT_PATH": "${OBSIDIAN_VAULT_PATH}"
+      }
     }
   }
 }
