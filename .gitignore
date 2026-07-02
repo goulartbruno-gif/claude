@@ -6,3 +6,4 @@ storage_state.json
 .notebooklm/
 .env
 node_modules/
+bling-mcp/.bling_tokens.json
