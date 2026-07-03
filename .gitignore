@@ -6,3 +6,4 @@ storage_state.json
 .notebooklm/
 .env
 node_modules/
+andromeda/.claude-flow/
